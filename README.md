@@ -39,7 +39,7 @@ Step 3, run trainbook.py generate ./btrainmodel/neighbor_dict.pkl best_model.pt 
 step 4, run recommender.py generate ./btrainmodel/test_results.json
 
 
-### FB15K237 and WN18RR dataset
+### FB15K237 and WN18RR dataset （Due to file size limitations, movie and book-related data are uploaded to https://pan.baidu.com/s/1W7hGkwrDWXqntBipdaeKeg?pwd=en23）
 
 Step 1, run preprocess.py/preprocess2.py generate ./FB15k237/node_info.json ./WN18RR/node_info.json
 

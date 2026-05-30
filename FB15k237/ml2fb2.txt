@@ -1,0 +1,3582 @@
+1,m.0dyb1,Toy Story,1995
+2,m.09w353,Jumanji,1995
+3,m.0676dr,Grumpier Old Men,1995
+4,m.03vny7,Waiting to Exhale,1995
+5,m.094g2z,Father of the Bride Part II,1995
+6,m.0bxsk,Heat,1995
+7,m.04wdfw,Sabrina,1995
+8,m.031hvc,Tom and Huck,1995
+9,m.0bcy50,Sudden Death,1995
+10,m.01npcx,GoldenEye,1995
+11,m.01m3wp,American President,1995
+12,m.02_lmb,Dracula: Dead and Loving It,1995
+13,m.0559wc,Balto,1995
+14,m.016z9n,Nixon,1995
+15,m.02_gjg,Cutthroat Island,1995
+16,m.033hmj,Casino,1995
+17,m.011yg9,Sense and Sensibility,1995
+18,m.02pg45,Four Rooms,1995
+19,m.02mvb2,Ace Ventura: When Nature Calls,1995
+20,m.0bhh9g,Money Train,1995
+21,m.0277j40,Get Shorty,1995
+22,m.08vz4p,Copycat,1995
+23,m.0946bb,Assassins,1995
+24,m.07_l0f,Powder,1995
+25,m.0f4vx,Leaving Las Vegas,1995
+26,m.0fdlc6,Othello,1995
+27,m.06h9xs,Now and Then,1995
+28,m.09rnxj,Persuasion,1995
+29,m.02dpl9,City of Lost Children,1995
+30,m.03mlz9,Shanghai Triad,1995
+31,m.054k8z,Dangerous Minds,1995
+32,m.07j6w,Twelve Monkeys,1995
+33,m.06mk7b,Wings of Courage,1995
+34,m.011ydl,Babe,1995
+35,m.08r605,Carrington,1995
+36,m.0gjk1d,Dead Man Walking,1995
+37,m.0513g2w,Across the Sea of Time,1995
+38,m.0c2x61,It Takes Two,1995
+39,m.0qjzd,Clueless,1995
+40,m.02qf7sl,Cry,1995
+41,m.01hjxv,Richard III,1995
+42,m.0337y9,Dead Presidents,1995
+43,m.016z30,Restoration,1995
+44,m.03wj_q,Mortal Kombat,1995
+45,m.01pvl7,To Die For,1995
+46,m.05rw58,How to Make an American Quilt,1995
+47,m.01dc0c,Seven,1995
+48,m.023p7l,Pocahontas,1995
+49,m.0cw0m6,When Night Is Falling,1995
+50,m.016fyc,Usual Suspects,1995
+52,m.04t9c0,Mighty Aphrodite,1995
+53,m.04_gsw,Lamerica,1994
+54,m.0cnw7k,Big Green,1995
+55,m.04y0t6,Georgia,1995
+56,m.0crw_l5,Kids of the Round Table,1995
+57,m.08pv2d,Home for the Holidays,1995
+58,m.011yfd,Postino,1994
+59,m.07f9c2,Confessional,1995
+60,m.0d2c_d,Indian in the Cupboard,1995
+61,m.06tw0x,Eye for an Eye,1996
+62,m.016z98,Mr. Holland's Opus,1995
+63,m.06q_hx,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996
+64,m.03h193t,Two if by Sea,1996
+65,m.06v9zs,Bio-Dome,1996
+66,m.0kvc36,Lawnmower Man 2: Beyond Cyberspace,1996
+67,m.02rzn2b,Two Bits,1995
+68,m.02phv5s,French Twist,1995
+69,m.016rw2,Friday,1995
+70,m.029k4p,From Dusk Till Dawn,1996
+71,m.05mk_y,Fair Game,1995
+72,m.05spx3,Kicking and Screaming,1995
+73,m.04n2_y,LesMisrables,1995
+74,m.08zcb0,Bed of Roses,1996
+75,m.0gcwj9,Big Bully,1996
+76,m.03z0yb,Screamers,1995
+77,m.0crxg29,Nico Icon,1995
+78,m.070178,Crossing Guard,1995
+79,m.06pxbc,Juror,1996
+80,m.0czthm,White Balloon,1995
+81,m.09kzfd,Things to Do in Denver when You're Dead,1995
+82,m.02qwvbs,Antonia's Line,1995
+83,m.04j0357,Once Upon a Time... When We Were Colored,1995
+84,m.0521f9f,Last Summer in the Hamptons,1995
+85,m.070jd7,Angels and Insects,1995
+86,m.07chp9,White Squall,1996
+87,m.07lz26,Dunston Checks In,1996
+88,m.040mt6,Black Sheep,1996
+89,m.063dp0,Nick of Time,1995
+90,m.0gh6kg6,Journey of August King,1995
+92,m.06m815,Mary Reilly,1996
+93,m.08nltc,Vampire in Brooklyn,1995
+94,m.0bln8,Beautiful Girls,1996
+95,m.02lgqm,Broken Arrow,1996
+96,m.03d7rz,In the Bleak Midwinter,1995
+97,m.02hhfl,Hate,1995
+98,m.0cts7b,Shopping,1994
+99,m.05dpjl,Heidi Fleiss: Hollywood Madam,1995
+100,m.03_w9b,City Hall,1996
+101,m.02ld66,Bottle Rocket,1996
+102,m.02q25p8,Mr. Wrong,1996
+103,m.097fqj,Unforgettable,1996
+104,m.023vcd,Happy Gilmore,1996
+105,m.0dr89x,Bridges of Madison County,1995
+106,m.0gkr0pf,Nobody Loves Me, 1994
+107,m.05351g,Muppet Treasure Island,1996
+108,m.0gmlf25,Catwalk,1995
+110,m.01gc7,Braveheart,1995
+111,m.07cw4,Taxi Driver,1976
+112,m.0163_s,Rumble in the Bronx,1995
+113,m.0dmnww,Before and After,1996
+114,m.05sm_1,Margaret's Museum,1995
+116,m.052c0b,Anne Frank Remembered,1995
+117,m.05jzbl,Young Poisoner's Handbook,1995
+118,m.0dy575,If Lucy Fell,1996
+119,m.07k4wk2,Steal Big Steal Little,1995
+120,m.0d1s9b,Race the Sun,1996
+121,m.0gkqtv,Boys of St. Vincent, 1993
+122,m.0695g8,Boomerang,1992
+123,m.01f8gz,Chungking Express,1994
+124,m.064zgw,Star Maker,1995
+125,m.0mdlf,Flirting With Disaster,1996
+126,m.08jc0x,NeverEnding Story III,1994
+128,m.0crt7p_,Jupiter's Wife,1994
+129,m.03y8jc1,Pie in the Sky,1995
+130,m.0cwxg9,Angela,1995
+131,m.0g9yw4y,Frankie Starlight,1995
+132,m.0bdhfg,Jade,1995
+134,m.0bnthvd,Sonic Outlaws,1995
+135,m.02zzbh,Down Periscope,1996
+136,m.02r6t63,From the Journals of Jean Seberg,1995
+137,m.0gwn2z,Man of the Year,1995
+138,m.02z1srt,Neon Bible,1995
+139,m.02vvs11,Target,1995
+140,m.06d_d3,Up Close and Personal,1996
+141,m.01jrbv,Birdcage,1996
+144,m.0676l_,Brothers McMullen,1995
+145,m.031t49,Bad Boys,1995
+146,m.03cb0qb,Amazing Panda Adventure,1995
+147,m.08xnxg,Basketball Diaries,1995
+148,m.043m98y,Awfully Big Adventure,1995
+149,m.0858d3,Amateur,1994
+150,m.011yd2,Apollo 13,1995
+151,m.033_m2,Rob Roy,1995
+152,m.0982zs,Addiction,1995
+153,m.01hr1,Batman Forever,1995
+154,m.03gcyx,Belle de jour,1967
+155,m.0db1b1,Beyond Rangoon,1995
+156,m.034d5_,Blue in the Face,1995
+157,m.0328vs,Canadian Bacon,1994
+158,m.033pf1,Casper,1995
+159,m.0c0d9s,Clockers,1995
+160,m.03tn80,Congo,1995
+161,m.04sg0b,Crimson Tide,1995
+162,m.03jfly,Crumb,1994
+163,m.02zkjw,Desperado,1995
+164,m.0bw6fj,Devil in a Blue Dress,1995
+165,m.01_1hw,Die Hard: With a Vengeance,1995
+166,m.03w0kv,Doom Generation, 1995
+167,m.0fp4r1,Feast of July,1995
+168,m.04dxrl,First Knight,1995
+169,m.0341k8,Free Willy 2: The Adventure Home,1995
+170,m.01n4z6,Hackers,1995
+171,m.061dj0,Jeffrey,1995
+172,m.0ktdb,Johnny Mnemonic,1995
+173,m.07b1gq,Judge Dredd,1995
+174,m.071fr7,Jury Duty,1995
+175,m.02ww1t,Kids,1995
+176,m.067g4b,Living in Oblivion,1995
+177,m.04xdbd,Lord of Illusions,1995
+178,m.04j5f5,Love & Human Remains,1993
+179,m.0ckff6,Mad Love,1995
+180,m.01jc1h,Mallrats,1995
+181,m.0344xk,Mighty Morphin Power Rangers: The Movie,1995
+182,m.03nr5vw,Moonlight and Valentino,1995
+183,m.03nvnqk,Mute Witness,1994
+184,m.08489x,Nadja,1994
+185,m.01sk1v,Net,1995
+186,m.033t6r,Nine Months,1995
+187,m.0prcz,Party Girl,1995
+188,m.070pcg,Prophecy,1995
+189,m.03yj1dh,Reckless,1995
+190,m.06fph5,Safe,1995
+191,m.08lr6s,Scarlet Letter,1995
+192,m.09g95_c,Show,1995
+193,m.0n83s,Showgirls,1995
+194,m.05wt50,Smoke,1995
+195,m.0fz8lt,Something to Talk About,1995
+196,m.032_76,Species,1995
+197,m.02qmjbc,Stars Fell on Henrietta,1995
+198,m.04tzz5,Strange Days,1995
+199,m.012h32,Umbrellas of Cherbourg,1964
+200,m.06_wvvd,Tie That Binds,1995
+201,m.03m4mm7,Three Wishes,1995
+202,m.03d7p0,Total Eclipse,1995
+203,m.03khj_,To Wong Foo,1995
+204,m.0hqs9,Under Siege 2: Dark Territory,1995
+205,m.03x_yfl,Unstrung Heroes,1995
+206,m.027rghz,Unzipped,1995
+207,m.06nq0j,Walk in the Clouds,1995
+208,m.02z9rr,Waterworld,1995
+209,m.06qt3b,White Man's Burden,1995
+210,m.04cr1c3,Wild Bill,1995
+211,m.02pq1yv,Browning Version,1994
+212,m.05h67c,Bushwhacked,1995
+213,m.08tk2f,Burnt By the Sun,1994
+214,m.09fnd1,Before the Rain,1994
+215,m.03dbg_,Before Sunrise,1995
+216,m.036z1n,Billy Madison,1995
+217,m.03whyrr,Babysitter,1995
+218,m.03ddd5,Boys on the Side,1995
+219,m.05tjh8,Cure,1995
+220,m.0fyt9h,Castle Freak,1995
+222,m.047q4xt,Circle of Friends,1995
+223,m.01chyt,Clerks,1994
+224,m.034nnw,Don Juan DeMarco,1995
+225,m.07tdzq,Disclosure,1994
+227,m.06kt1h,Drop Zone,1994
+228,m.0b6j4zh,Destiny Turns on the Radio,1995
+229,m.0b3w_9n,Death and the Maiden,1994
+230,m.02qqrpy,Dolores Claiborne,1994
+231,m.0372j5,Dumb & Dumber,1994
+232,m.03lb7_,Eat Drink Man Woman,1994
+233,m.029903,Exotica,1994
+234,m.0fpdlt,Exit to Eden,1994
+235,m.02lxrv,Ed Wood,1994
+236,m.0dbwm,French Kiss,1995
+237,m.026yq3c,Forget Paris,1995
+238,m.0kv72r,Far From Home: The Adventures of Yellow Dog,1995
+239,m.014d_k,Goofy Movie,1995
+240,m.02q4sd5,Hideaway,1995
+241,m.033_kx,Fluke,1995
+242,m.028r88,Farinelli: il castrato,1994
+243,m.07q2jv,Gordy,1995
+244,m.0dh_gg,Gumby: The Movie,1995
+245,m.0f1fx8,Glass Shield,1994
+246,m.01z9n6,Hoop Dreams,1994
+247,m.015t5q,Heavenly Creatures,1994
+248,m.04wdyj,Houseguest,1994
+249,m.027q85,Immortal Beloved,1994
+250,m.040ntm,Heavyweights,1994
+251,m.027stvn,Hunted,1995
+252,m.074fx1,I.Q.,1994
+253,m.02p76f9,Interview with the Vampire,1994
+254,m.06wmyc,Jefferson in Paris,1995
+255,m.015kly,Jerky Boys,1994
+256,m.04jnxl,Junior,1994
+257,m.07l5v6,Just Cause,1995
+258,m.01q41m,Kid in King Arthur's Court,1995
+259,m.02x09x,Kiss of Death,1995
+260,m.0dtfn,Star Wars: Episode IV - A New Hope,1977
+261,m.03bxp5,Little Women,1994
+262,m.096v5f,Little Princess,1995
+263,m.0h6zyt,Ladybird Ladybird,1994
+264,m.04n6vgs,Enfer,1994
+265,m.03hjw08,Like Water for Chocolate,1992
+266,m.02__34,Legends of the Fall,1994
+267,m.059vwy,Major Payne,1994
+268,m.03n_zn,Little Odessa,1994
+269,m.0277py5,My Crazy Life,1993
+270,m.0g_zyp,Love Affair,1994
+271,m.03qfr0,Losing Isaiah,1995
+272,m.016z7s,Madness of King George,1994
+273,m.04ltlj,Mary Shelley's Frankenstein,1994
+274,m.09zxs9,Man of the House,1995
+275,m.0d0stl,Mixed Nuts,1994
+276,m.0bdhhw,Milk Money,1994
+277,m.051xs93,Miracle on 34th Street,1994
+278,m.026pzbg,Miami Rhapsody,1995
+279,m.04xndx,My Family,1995
+280,m.0586x1,Murder in the First,1995
+281,m.016z84,Nobody's Fool,1994
+282,m.01dh6f,Nell,1994
+283,m.03d05ct,New Jersey Drive,1995
+286,m.09gnqh6,Nemesis 2: Nebula,1995
+287,m.04j2cq9,Nina Takes a Lover,1994
+288,m.059rc,Natural Born Killers,1994
+289,m.0280m2w,Only You,1994
+290,m.02qxd_l,Once Were Warriors,1994
+291,m.0844xc,Poison Ivy II,1995
+292,m.036r3f,Outbreak,1995
+293,m.04q5g,Professional,1994
+294,m.0dj_dz,Perez Family,1995
+295,m.04j2b_y,Pyromaniac's Love Story,1995
+296,m.0f4_l,Pulp Fiction,1994
+297,m.0djv48,Panther,1995
+298,m.03rwl1,Pushing Hands,1992
+299,m.061ffq,Priest,1994
+300,m.011ycb,Quiz Show,1994
+301,m.027xtwf,Picture Bride,1995
+302,m.05xss5,Queen Margot,1994
+303,m.037c_d,Quick and the Dead,1995
+304,m.0bpbgy,Roommates,1995
+305,m.0fz80g,Ready to Wear,1994
+306,m.014bjk,Three Colors: Red,1994
+307,m.01470k,Three Colors: Blue,1993
+308,m.014bhr,Three Colors: White,1994
+309,m.07lhgj,Red Firecracker,1994
+310,m.0fq080c,Rent-a-Kid,1995
+311,m.03gqqb5,Relative Fear,1994
+312,m.05qss9,Stuart Saves His Family,1995
+313,m.0b8l01,Swan Princess,1994
+314,m.03hxxd,Secret of Roan Inish,1994
+315,m.074rg9,Specialist,1994
+316,m.070g7,Stargate,1994
+317,m.0129g2,Santa Clause,1994
+318,m.07jnt,Shawshank Redemption,1994
+319,m.03ljq9,Shallow Grave,1994
+320,m.0284wd7,Suture,1993
+321,m.0260n18,Strawberry and Chocolate,1993
+322,m.05m55b,Swimming with Sharks,1995
+324,m.06zt03h,Sum of Us,1994
+325,m.0blpwc,National Lampoon's Senior Trip,1995
+326,m.04xp9b,To Live,1994
+327,m.0287z_j,Tank Girl,1995
+328,m.034fg8,Tales From the Crypt Presents: Demon Knight,1995
+329,m.06qyw,Star Trek: Generations,1994
+330,m.088_dk,Tales from the Hood,1995
+331,m.03bxnf,Tom & Viv,1994
+332,m.05r1q4,Village of the Damned,1995
+333,m.03dxs5,Tommy Boy,1995
+334,m.04kzxz,Vanya on 42nd Street,1994
+335,m.027q4l_,Underneath,1995
+336,m.027xtd9,Walking Dead,1995
+337,m.0306c6,What's Eating Gilbert Grape,1993
+338,m.01j3gd,Virtuosity,1995
+339,m.01gzmk,While You Were Sleeping,1995
+340,m.060_dp,War,1994
+341,m.0fc1zx,Double Happiness,1994
+342,m.01_p7z,Muriel's Wedding,1994
+343,m.039xvx,Baby-Sitters Club,1995
+344,m.01xlh5,Ace Ventura: Pet Detective,1994
+345,m.02fwfb,Adventures of Priscilla,1994
+346,m.071v0j,Backbeat,1993
+347,m.03glth,Bitter Moon,1992
+348,m.0421ng,Bullets Over Broadway,1994
+349,m.05h12k,Clear and Present Danger,1994
+350,m.02v6_c,Client,1994
+351,m.0c53zq,Corrina,1994
+352,m.06l2pj,Crooklyn,1994
+353,m.024gy8,Crow,1994
+354,m.03cy8s,Cobb,1994
+355,m.01bn3l,Flintstones,1994
+356,m.0bdjd,Forrest Gump,1994
+357,m.02_kd,Four Weddings and a Funeral,1994
+358,m.033gkt,Higher Learning,1995
+359,m.0g5f2j,I Like It Like That,1994
+360,m.07pr1q,I Love Trouble,1994
+361,m.08jl3y,It Could Happen to You,1994
+362,m.035_kw,Jungle Book,1994
+363,m.09nb_5,Wonderful,1993
+364,m.0m63c,Lion King,1994
+365,m.05n1yj,Little Buddha,1993
+366,m.01yvmf,Wes Craven's New Nightmare,1994
+367,m.05567m,Mask,1994
+368,m.021jdm,Maverick,1994
+369,m.03vyw8,Mrs. Parker and the Vicious Circle,1994
+370,m.062b7h,Naked Gun 33 1/3: The Final Insult,1994
+371,m.06xz7w,Paper,1994
+372,m.01z7v5,Reality Bites,1994
+373,m.07lyw_,Red Rock West,1992
+374,m.0557n3,Richie Rich,1994
+375,m.02w_mq_,Safe Passage,1994
+376,m.0bp0wf,River Wild,1994
+377,m.0pb33,Speed,1994
+378,m.0ch0zt,Speechless,1994
+379,m.055q2z,Timecop,1994
+380,m.0hwpz,True Lies,1994
+381,m.03681w,When a Man Loves a Woman,1994
+382,m.032xx4,Wolf,1994
+383,m.08mg_b,Wyatt Earp,1994
+384,m.0dtknf,Bad Company,1995
+385,m.02qpw46,Man of No Importance,1994
+386,m.081m5s,S.F.W.,1994
+387,m.0838sl,Low Down Dirty Shame,1994
+388,m.055z91,Boys Life,1995
+389,m.03hhs81,Colonel Chabert,1994
+390,m.03bc42,Faster Pussycat! Kill! Kill!,1965
+391,m.05dp5l,Jason's Lyric,1994
+392,m.02pny3k,Secret Adventures of Tom Thumb,1993
+393,m.04nssc,Street Fighter,1994
+394,m.0d9mps,Coldblooded,1995
+396,m.0805q3z,Fall Time,1995
+397,m.0crs4v4,Fear,1995
+398,m.043qq5y,Frank and Ollie,1995
+404,m.0crvdkk,Brother Minister: The Assassination of Malcolm X,1994
+405,m.0c2jk9,Highlander III: The Sorcerer,1994
+406,m.04j2bwt,Federal Hill,1994
+407,m.01yfqz,In the Mouth of Madness,1995
+408,m.0cdnx1,8 Seconds,1994
+409,m.08dk10,Above the Rim,1994
+410,m.03kxj2,Addams Family Values,1993
+411,m.09jwj8,You So Crazy,1994
+412,m.0f858v,Age of Innocence,1993
+413,m.03qfpk,Airheads,1994
+414,m.07vb73,Air Up There,1994
+415,m.036r20,Another Stakeout,1993
+416,m.0330k3,Bad Girls,1994
+417,m.030bg4,Barcelona,1994
+418,m.04bqtt,Being Human,1993
+419,m.0615_9,Beverly Hillbillies,1993
+420,m.049kmb,Beverly Hills Cop III,1994
+421,m.0kvgrv,Black Beauty,1994
+422,m.03qcnf,Blink,1994
+423,m.08ljr5,Blown Away,1994
+424,m.0571xc,Blue Chips,1994
+425,m.03b24y,Blue Sky,1994
+426,m.0f1yxp,Body Snatchers,1993
+427,m.0k9c7,Boxing Helena,1993
+428,m.02t4w7,Bronx Tale,1993
+429,m.0ph12,Cabin Boy,1994
+430,m.0bcyw8,Calendar Girl,1993
+431,m.0337wr,Carlito's Way,1993
+432,m.08qb0q,City Slickers II: The Legend of Curly's Gold,1994
+433,m.0ck_1y,Clean Slate,1994
+434,m.037xlx,Cliffhanger,1993
+435,m.05yxmk,Coneheads,1993
+436,m.07nnp_,Color of Night,1994
+437,m.0djsl1,Cops and Robbersons,1994
+438,m.0blqdm,Cowboy Way,1994
+439,m.027jdg0,Dangerous Game,1993
+440,m.0339_4,Dave,1993
+441,m.02j69w,Dazed and Confused,1993
+442,m.02ny6g,Demolition Man,1993
+443,m.02vklgp,Endless Summer 2,1994
+444,m.0kvgtf,Even Cowgirls Get the Blues,1993
+445,m.06hcsf,Fatal Instinct,1993
+446,m.01d1_s,Farewell My Concubine,1993
+447,m.0by509,Favor,1994
+448,m.02yxx,Fearless,1993
+449,m.04007r,Fear of a Black Hat,1993
+450,m.036r0k,With Honors,1994
+451,m.06wmvw,Flesh and Bone,1993
+452,m.0f7y0z,Widows' Peak,1994
+453,m.07q5mt,For Love or Money,1993
+454,m.01q7h2,Firm,1993
+455,m.02qwyz,Free Willy,1993
+456,m.05gh96,Fresh,1994
+457,m.05znxx,Fugitive,1993
+458,m.0c_3nd,Geronimo: An American Legend,1993
+459,m.07tqdy,Getaway,1994
+460,m.04kwwr,Getting Even with Dad,1994
+461,m.0gkjmf,Go Fish,1994
+462,m.03hkpbj,Good Man in Africa,1994
+463,m.030xw6,Guilty as Sin,1993
+464,m.05j3s1,Hard Target,1993
+465,m.0599rp,Heaven & Earth,1993
+466,m.04_rjv,Hot Shots! Part Deux,1993
+467,m.09tp1v,Live Nude Girls,1995
+468,m.043vvr,Englishman Who Went Up a Hill,1995
+469,m.03zyv4,House of the Spirits,1993
+470,m.054vqy,House Party 3,1994
+471,m.016y0b,Hudsucker Proxy,1994
+472,m.0blfnd,I'll Do Anything,1994
+473,m.07g8wz,In the Army Now,1994
+474,m.0320gs,In the Line of Fire,1993
+475,m.0_b3d,In the Name of the Father,1993
+476,m.08gjyx,Inkwell,1994
+477,m.016z7f,What's Love Got to Do with It?,1993
+478,m.04mc6w,Jimmy Hollywood,1994
+479,m.03dymt,Judgment Night,1993
+480,m.0hx4y,Jurassic Park,1993
+481,m.02v5md,Kalifornia,1993
+482,m.030xp1,Killing Zoe,1994
+483,m.04c4fd,King of the Hill,1993
+484,m.02823rl,Lassie,1994
+485,m.032016,Last Action Hero,1993
+486,m.0bq6zl,Life with Mikey,1993
+487,m.02x0fvc,Lightning Jack,1994
+488,m.02b7j8,M. Butterfly,1993
+489,m.09b4h7,Made in America,1993
+490,m.06wmkz,Malice,1993
+491,m.07xmz1,Man Without a Face,1993
+492,m.04k9yp,Manhattan Murder Mystery,1993
+493,m.032l5l,Menace II Society,1993
+494,m.0hqrx,Executive Decision,1996
+495,m.04963s,In the Realm of the Senses,1976
+496,m.02w85v9,What Happened Was...,1994
+497,m.05gv03,Much Ado About Nothing,1993
+498,m.0c3wmn,Mr. Jones,1993
+499,m.02qrrgg,Mr. Wonderful,1993
+500,m.01y_sf,Mrs. Doubtfire,1993
+501,m.05pws0,Naked,1993
+502,m.030bds,Next Karate Kid,1994
+503,m.0bx9qwk,New Age,1994
+504,m.07cj2v,No Escape,1994
+505,m.03rtz1,North,1994
+506,m.03prz_,Orlando,1993
+507,m.09l98n,Perfect World,1993
+508,m.02d413,Philadelphia,1993
+509,m.0_b9f,Piano,1993
+510,m.06974q,Poetic Justice,1993
+511,m.09fgyt,Program,1993
+512,m.0fs0m9,Robert A. Heinlein's The Puppet Masters,1994
+513,m.08ktmx,Radioland Murders,1994
+514,m.04n04q,Ref,1994
+515,m.05cvgl,Remains of the Day,1993
+516,m.01sr58,Renaissance Man,1994
+517,m.0603hj,Rising Sun,1993
+518,m.03mczbc,Road to Wellville,1994
+519,m.067p6m,Robocop 3,1993
+520,m.02pp19,Robin Hood: Men in Tights,1993
+521,m.07jr_9,Romeo Is Bleeding,1993
+522,m.04xvqk,Romper Stomper,1992
+523,m.088rwz,Ruby in Paradise,1993
+524,m.01q48n,Rudy,1993
+525,m.0bvdhxr,Saint of Fort Washington,1993
+526,m.02740q8,Savage Nights,1992
+527,m.0hfzr,Schindler's List,1993
+528,m.07j9t1,Scout,1994
+529,m.02rhjj,Searching for Bobby Fischer,1993
+530,m.02pmcp1,Second Best,1994
+531,m.049cgk,Secret Garden,1993
+532,m.01r11f,Serial Mom,1994
+533,m.0fjjjh,Shadow,1994
+534,m.05j82v,Shadowlands,1993
+535,m.0320fn,Short Cuts,1993
+536,m.0cr7n8,Simple Twist of Fate,1994
+537,m.03ymw7,Sirens,1994
+538,m.04y5j64,Six Degrees of Separation,1993
+539,m.01gzln,Sleepless in Seattle,1993
+540,m.02qzmz6,Sliver,1993
+541,m.017n9,Blade Runner,1982
+542,m.09_l5f,Son in Law,1993
+543,m.01f50k,So I Married an Axe Murderer,1993
+544,m.06p52b,Striking Distance,1993
+546,m.01dybc,Super Mario Bros.,1993
+547,m.09bcv0,Surviving the Game,1994
+548,m.0bl61r,Terminal Velocity,1994
+549,m.01r7nl,Thirty-Two Short Films About Glenn Gould,1993
+550,m.06597h,Threesome,1994
+551,m.0243cq,Nightmare Before Christmas,1993
+552,m.0698w6,Three Musketeers,1993
+553,m.02ljhg,Tombstone,1993
+554,m.05myy97,Trial by Jury,1994
+555,m.028xq_,True Romance,1993
+556,m.02g329,War Room,1993
+558,m.04njrl,Pagemaster,1994
+559,m.02qshlr,Paris,1993
+560,m.0b6xn6z,Beans of Egypt,1994
+561,m.0gm0_kz,Killer,1994
+562,m.071xjc,Welcome to the Dollhouse,1995
+563,m.03nqwhg,Germinal,1993
+564,m.03m3y1s,Chasers,1994
+565,m.08q1lw,Cronos,1992
+566,m.0d7mv2,Naked in New York,1994
+567,m.0c74ff,Kika,1993
+568,m.07zjqm,Bhaji on the Beach,1993
+569,m.08lvkh,Little Big League,1994
+570,m.0bhgtxq,Slingshot,1993
+571,m.0dncz9,Wedding Gift,1994
+572,m.0b7b9hw,Foreign Student,1994
+573,m.0kv7qj,Ciao,1993
+574,m.02cqsl,Spanking the Monkey,1994
+575,m.04hjd4,Little Rascals,1994
+576,m.04j2q23,Fausto,1993
+577,m.0c19wn,Andre,1994
+580,m.06wp_k,Princess Caraboo,1994
+581,m.06k1j_,Celluloid Closet,1995
+582,m.04j1h9n,Metisse,1993
+583,m.0h1_31,Dear Diary,1994
+584,m.05q97mp,I Don't Want to Talk About It,1993
+585,m.06r5q1,Brady Bunch Movie,1995
+586,m.01fmys,Home Alone,1990
+587,m.0y_pg,Ghost,1990
+588,m.0jnwx,Aladdin,1992
+589,m.07gp9,Terminator 2: Judgment Day,1991
+590,m.0y_9q,Dances with Wolves,1990
+591,m.0gks1vb,Tough and Deadly,1995
+592,m.01hp5,Batman,1989
+593,m.07cyl,Silence of the Lambs,1991
+594,m.0k4d7,Snow White and the Seven Dwarfs,1937
+595,m.0_7w6,Beauty and the Beast,1991
+596,m.019kyn,Pinocchio,1940
+597,m.014l6_,Pretty Woman,1990
+598,m.0gy7zb1,Window to Paris,1994
+599,m.0k5k1,Wild Bunch,1969
+600,m.0dy2m2,Love and a .45,1994
+601,m.063ynb_,Wooden Man's Bride,1994
+602,m.04zxc5w,Great Day in Harlem,1994
+603,m.02rv7cr,Bye Bye,1995
+605,m.07c13r,One Fine Day,1996
+606,m.0d2ylv,Candyman: Farewell to the Flesh,1995
+607,m.05nynr,Century,1993
+608,m.011yhm,Fargo,1996
+609,m.0d7vdj,Homeward Bound II: Lost in San Francisco,1996
+610,m.014bpd,Heavy Metal,1981
+611,m.09yqn5,Hellraiser: Bloodline,1996
+612,m.06wm_z,Pallbearer,1996
+613,m.07v7sl,Jane Eyre,1996
+614,m.04j2tjk,Loaded,1994
+615,m.026xqyw,Bread and Chocolate,1973
+616,m.01ydq5,Aristocats,1970
+617,m.0bv9hq,Flower of My Secret,1995
+618,m.0b7ydt,Two Much,1996
+619,m.05r9bx,Ed,1996
+621,m.02r34sr,My Favorite Season,1993
+623,m.0bhb2sm,Modern Affair,1995
+624,m.0gkdl1v,Condition Red,1995
+626,m.03fk2k,Thin Line Between Love and Hate,1996
+627,m.079b9l,Last Supper,1995
+628,m.0422v0,Primal Fear,1996
+630,m.0gghb_,Carried Away,1996
+631,m.09mnhy,All Dogs Go to Heaven 2,1996
+632,m.065v29,Land and Freedom,1995
+633,m.08yzzb,Denise Calls Up,1995
+635,m.0273rwy,Family Thing,1996
+637,m.0dt1p_,Sgt. Bilko,1996
+638,m.09xylh,Jack and Sarah,1995
+639,m.04jrzl,Girl 6,1996
+640,m.0bm853,Diabolique,1996
+645,m.0kv2bh,Nelly & Monsieur Arnaud,1995
+647,m.01j5ql,Courage Under Fire,1996
+648,m.035w2k,Mission: Impossible,1996
+649,m.06dybp,Cold Fever,1994
+650,m.04n3tmy,Moll Flanders,1996
+652,m.09xvch,301,1995
+653,m.03y_zj,Dragonheart,1996
+656,m.09m5f_,Eddie,1996
+657,m.06w3_kl,Yankee Zulu,1994
+658,m.0c36n7b,Billy's Holiday,1995
+659,m.04ppds,Purple Noon,1960
+661,m.037s6_,James and the Giant Peach,1996
+662,m.02thnm,Fear,1996
+663,m.02fjzg,Kids in the Hall: Brain Candy,1996
+664,m.091rbh,Faithful,1996
+665,m.019z8l,Underground,1995
+666,m.03d1hp2,All Things Fair,1996
+667,m.0fpf67,Bloodsport 2,1995
+668,m.031f7_,Pather Panchali,1955
+670,m.0545gy,World of Apu,1959
+671,m.03sc3z,Mystery Science Theater 3000: The Movie,1996
+673,m.01n8hp,Space Jam,1996
+674,m.066z5r,Barbarella,1968
+678,m.03j0jy,Some Folks Call It a Sling Blade,1993
+679,m.0c03cl_,Run of the Country,1995
+680,m.0126nh,Alphaville,1965
+681,m.052q0p,Clean Slate,1981
+682,m.0crrdrd,Tigrero: A Film That Was Never Made,1994
+685,m.0dv0yn,It's My Party,1995
+687,m.0d4q15,Country Life,1994
+688,m.05lh37,Operation Dumbo Drop,1995
+690,m.04jl57t,Promise,1994
+691,m.0dpkd7,Mrs. Winterbourne,1996
+692,m.084s4k,Solo,1996
+694,m.0276569,Substitute,1996
+695,m.06sw7t,True Crime,1995
+696,m.02wch7m,Butterfly Kiss,1995
+697,m.01pzf8,Feeling Minnesota,1996
+698,m.05nzywk,Delta of Venus,1994
+700,m.03sph5,Angus,1995
+701,m.0cykzs,Daens,1992
+702,m.01p34v,Faces,1968
+703,m.0djqxp,Boys,1996
+704,m.06n6yx,Quest,1996
+705,m.04j2ncz,Cosi,1996
+706,m.0h3tn9,Sunset Park,1996
+707,m.081q6m,Mulholland Falls,1996
+708,m.034d47,Truth About Cats & Dogs,1996
+709,m.01z0n6,Oliver & Company,1988
+710,m.02f4wh,Celtic Pride,1996
+711,m.04v7kf,Flipper,1996
+712,m.02r8x3z,Captives,1994
+714,m.0symg,Dead Man,1995
+715,m.0cdwjp,Horseman on the Roof,1995
+716,m.026ks2y,Switchblade Sisters,1975
+717,m.0513gv5,Mouth to Mouth,1995
+718,m.06tqpj,Visitors,1993
+719,m.036y_2,Multiplicity,1996
+720,m.0b04wt,Wallace & Gromit: The Best of Aardman Animation,1996
+722,m.0crvcd6,Haunted World of Edward D. Wood Jr.,1995
+724,m.0lwff,Craft,1996
+725,m.03205n,Great White Hype,1996
+726,m.087gfp,Last Dance,1996
+728,m.05s_rl4,Cold Comfort Farm,1995
+729,m.04j31_r,Institute Benjamenta,1995
+731,m.09m6px,Heaven's Prisoners,1996
+732,m.06kzhp,Original Gangstas,1996
+733,m.07bx6,Rock,1996
+734,m.0gw5s3,Getting Away With Murder,1996
+735,m.070hnk,Cemetery Man,1994
+736,m.01s7w3,Twister,1996
+737,m.0c61rf,Barb Wire,1996
+741,m.01kzd_v,Ghost in the Shell,1995
+742,m.09c7rx,Thinner,1996
+743,m.06h5k7,Spy Hard,1996
+744,m.0bysb20,Brothers in Trouble,1995
+745,m.0161fz,Close Shave,1995
+746,m.0jqys,Force of Evil,1948
+747,m.0gxtnd,Stupids,1996
+748,m.0bswf7,Arrival,1996
+749,m.0by1wcr,Man from Down Under,1943
+750,m.02dwj,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1963
+751,m.026sy10,Careful,1992
+753,m.05p6tc4,Month by the Lake,1995
+754,m.02p_pqh,Gold Diggers: The Secret of Bear Mountain,1995
+755,m.0gzvqs,Kim,1950
+756,m.0crt66q,Carmen Miranda: Bananas Is My Business,1994
+757,m.01gcz7,Ashes of Time,1994
+758,m.0bntqlk,Jar,1992
+759,m.026st_d,Maya Lin: A Strong Clear Vision,1994
+760,m.040s2y,Stalingrad,1993
+761,m.0d99k_,Phantom,1996
+762,m.01r97z,Striptease,1996
+763,m.03c6f0_,Last of the High Kings,1996
+764,m.03rpvs,Heavy,1995
+765,m.033856,Jack,1996
+766,m.0286vp,I Shot Andy Warhol,1996
+767,m.04q31tk,Grass Harp,1995
+771,m.0j44yb1,Vie est belle,1987
+774,m.03hp16n,Wend Kuuni,1982
+775,m.0f4yl5,Spirits of the Dead,1968
+776,m.02wh6z8,Babyfever,1994
+778,m.0qf2t,Trainspotting,1996
+779,m.047dvdb,'Til There Was You,1997
+780,m.0ds2n,Independence Day,1996
+781,m.05zr1l,Stealing Beauty,1996
+782,m.07dvy7,Fan,1996
+783,m.0241y7,Hunchback of Notre Dame,1996
+784,m.03lrht,Cable Guy,1996
+785,m.060r16,Kingpin,1996
+786,m.02fhm6,Eraser,1996
+787,m.027hbdv,Gate of Heavenly Peace,1995
+788,m.0d87hc,Nutty Professor,1996
+789,m.04j2pzy,I,1990
+790,m.0465gbw,An Unforgettable Summer,1994
+791,m.0crrz6p,Last Klezmer: Leopold Kozlowski,1995
+792,m.02x42st,Hungarian Fairy Tale,1987
+793,m.0b7bnkc,My Life and Times With Antonin Artaud,1993
+796,m.06sgvs,Very Natural Thing,1974
+798,m.03phtz,Daylight,1996
+799,m.039yp5,Frighteners,1996
+800,m.046qwc,Lone Star,1996
+801,m.02862zk,Harriet the Spy,1996
+802,m.03936g,Phenomenon,1996
+803,m.0c7j26,Walking and Talking,1996
+804,m.06wqgh,She's the One,1996
+805,m.09p4w8,Time to Kill,1996
+806,m.048r690,American Buffalo,1996
+807,m.0dfs5_,Rendezvous in Paris,1995
+808,m.098f_x,Alaska,1996
+809,m.0fghvz,Fled,1996
+810,m.032pdj,Kazaam,1996
+813,m.0c50k1,Larger Than Life,1996
+814,m.047lgx7,Boy Called Hate,1995
+815,m.07kcjng,Power 98,1995
+818,m.08v3bw,Very Brady Sequel,1996
+820,m.0gpnp8,Death in the Garden,1956
+823,m.0d89jg,Collectionneuse,1967
+824,m.0bhgqnp,Kaspar Hauser,1993
+827,m.0274q34,Convent,1995
+828,m.034v28,Adventures of Pinocchio,1996
+829,m.08x_q4,Joe's Apartment,1996
+830,m.06fhhh,First Wives Club,1996
+831,m.05_n7z,Stonewall,1995
+832,m.03xx0x,Ransom,1996
+833,m.03n7pw,High School High,1996
+834,m.04gsqs_,Phat Beach,1996
+835,m.03nfc4,Foxfire,1996
+836,m.0558xt,Chain Reaction,1996
+837,m.03209l,Matilda,1996
+838,m.07tj4c,Emma,1996
+839,m.03kysk,Crow: City of Angels,1996
+840,m.0d7w7t,House Arrest,1996
+841,m.07hm0d,Eyes Without a Face,1959
+842,m.034fgm,Tales from the Crypt Presents: Bordello of Blood,1996
+844,m.075rv8v,Story of Xinghua,1993
+846,m.0g3rpw,Flirt,1995
+847,m.04j34v5,Big Squeeze,1996
+848,m.08sytx,Spitfire Grill,1996
+849,m.033v5p,Escape from L.A.,1996
+850,m.03gw01,Cyclo,1995
+851,m.03njdv,Basquiat,1996
+852,m.01h0_h,Tin Cup,1996
+853,m.09hl_z,Dingo,1992
+854,m.04cz70,Ballad of Narayama,1958
+858,m.07g1sm,Godfather,1972
+860,m.0bnmcl,Maybe,1994
+861,m.03_95w,Supercop,1992
+862,m.0g1vcm,Manny & Lo,1996
+864,m.09g6f0s,Wife,1995
+866,m.01l25p,Bound,1996
+867,m.0dy27c,Carpool,1996
+868,m.074f6p,Death in Brunswick,1991
+869,m.05nyt2,Kansas City,1996
+870,m.072564,Gone Fishin',1997
+874,m.0kvh2d,Killer: A Journal of Murder,1995
+875,m.0gkr997,Nothing to Lose,1994
+876,m.0bn33v,Police Story 4: Project S,1993
+877,m.02qg790,Girls Town,1996
+878,m.07k9m5y,Bye-Bye,1995
+879,m.077dw1,Relic,1997
+880,m.0dp7wt,Island of Dr. Moreau,1996
+881,m.01x5_f,First Kid,1996
+882,m.0dyzm9,Trigger Effect,1996
+884,m.09v2wrq,Sweet Nothing,1995
+885,m.02vyyj6,Bogus,1996
+886,m.047419,Bulletproof,1996
+887,m.06w7slf,Talk of Angels,1998
+888,m.07kwyt,Land Before Time III: The Time of the Great Giving,1995
+889,m.05zk8jx,1-900,1994
+891,m.06d6z_,Halloween: The Curse of Michael Myers,1995
+892,m.02rtqvb,Twelfth Night,1996
+893,m.08zj46,Mother Night,1996
+896,m.0405t4,Wild Reeds,1994
+897,m.0cjw2s,For Whom the Bell Tolls,1943
+898,m.0gxfz,Philadelphia Story,1940
+899,m.063hp4,Singin' in the Rain,1952
+900,m.05dmmc,American in Paris,1951
+901,m.02dq6z,Funny Face,1957
+902,m.0dnw1,Breakfast at Tiffany's,1961
+903,m.0k5g9,Vertigo,1958
+904,m.0jwvf,Rear Window,1954
+905,m.0c5dd,It Happened One Night,1934
+906,m.070fnm,Gaslight,1944
+907,m.0glnm,Gay Divorcee,1934
+908,m.0jqd3,North by Northwest,1959
+909,m.0b_5d,Apartment,1960
+910,m.0k4f3,Some Like It Hot,1959
+911,m.03n102,Charade,1963
+912,m.0ft18,Casablanca,1942
+913,m.0cbn7c,Maltese Falcon,1941
+914,m.0cq7kw,My Fair Lady,1964
+915,m.04wddl,Sabrina,1954
+916,m.0k419,Roman Holiday,1953
+917,m.096vm7,Little Princess,1939
+918,m.0jy_1,Meet Me in St. Louis,1944
+919,m.02q52q,Wizard of Oz,1939
+920,m.083skw,Gone with the Wind,1939
+921,m.016k80,My Favorite Year,1982
+922,m.0k4fz,Sunset Blvd.,1950
+923,m.01lsl,Citizen Kane,1941
+924,m.08ct6,2001: A Space Odyssey,1968
+925,m.026n0nd,Golden Earrings,1947
+926,m.0bj25,All About Eve,1950
+927,m.02710m8,Women,1939
+928,m.04mzf8,Rebecca,1940
+929,m.0gy4k,Foreign Correspondent,1940
+930,m.01ltq_,Notorious,1946
+931,m.0ktpx,Spellbound,1945
+932,m.03lnmp,Affair to Remember,1957
+933,m.01jntj,To Catch a Thief,1955
+934,m.0kxpq,Father of the Bride,1950
+935,m.0jq14,Band Wagon,1953
+936,m.0gt1k,Ninotchka,1939
+937,m.0b2f87,Love in the Afternoon,1957
+938,m.05sbv3,Gigi,1958
+939,m.0kvbdg,Reluctant Debutante,1958
+940,m.0gssy,Adventures of Robin Hood,1938
+941,m.044vd3,Mark of Zorro,1940
+942,m.0jymd,Laura,1944
+943,m.071tng,Ghost and Mrs. Muir,1947
+944,m.0gnsx,Lost Horizon,1937
+945,m.0gnjh,Top Hat,1935
+946,m.0k4m8,To Be or Not to Be,1942
+947,m.0jz71,My Man Godfrey,1936
+948,m.0m_mm,Giant,1956
+949,m.01qkt1,East of Eden,1955
+950,m.0glqs,Thin Man,1934
+951,m.0jsxn,His Girl Friday,1940
+952,m.04954r,Around the World in 80 Days,1956
+953,m.0gcpc,It's a Wonderful Life,1946
+954,m.0gt14,Mr. Smith Goes to Washington,1939
+955,m.0jq56,Bringing Up Baby,1938
+956,m.012j7h,Penny Serenade,1941
+957,m.03h082k,Scarlet Letter,1926
+958,m.03d8lyh,Lady of Burlesque,1943
+959,m.026pqmj,Of Human Bondage,1934
+960,m.0fr6g9,Angel on My Shoulder,1946
+961,m.03yd1p4,Little Lord Fauntleroy,1936
+962,m.027fltd,They Made Me a Criminal,1939
+963,m.0kvg94,Inspector General,1949
+964,m.09pt4v,Angel and the Badman,1947
+965,m.09xcn4,39 Steps,1935
+966,m.03tc36,Walk in the Sun,1945
+967,m.04xv7k,Outlaw,1943
+968,m.07g38,Night of the Living Dead,1968
+969,m.0hv27,African Queen,1951
+970,m.0599ch,Beat the Devil,1954
+971,m.09hjbg,Cat on a Hot Tin Roof,1958
+972,m.0gkqds,Last Time I Saw Paris,1954
+973,m.07ftxt,Meet John Doe,1941
+974,m.04vgss,Algiers,1938
+976,m.03cd4q6,Farewell to Arms,1932
+980,m.03cxzkt,In the Line of Duty 2,1987
+981,m.02qgrl6,Dangerous Ground,1997
+982,m.0m_kq,Picnic,1955
+984,m.05lbpp,Pompatus of Love,1996
+985,m.04_0b7q,Small Wonders,1996
+986,m.0hmk4,Fly Away Home,1996
+987,m.0bgbp96,Bliss,1997
+988,m.0fk60h,Grace of My Heart,1996
+989,m.04jl_ps,Schlafes Bruder,1995
+990,m.0bmjx4,Maximum Risk,1996
+991,m.0pv54,Michael Collins,1996
+992,m.0dgcgl,Rich Man's Wife,1996
+993,m.09d3f3,Infinity,1996
+994,m.02bf6d,Big Night,1996
+996,m.08j62y,Last Man Standing,1996
+997,m.03yjj_1,Caught,1996
+998,m.032knp,Set It Off,1996
+999,m.05828j,2 Days in the Valley,1996
+1000,m.04jryv,Curdled,1996
+1002,m.02qgv0b,Ed's Next Move,1996
+1003,m.08y42c,Extreme Measures,1996
+1004,m.0hqtj,Glimmer Man,1996
+1005,m.079ntq,D3: The Mighty Ducks,1996
+1006,m.0f0w57,Chamber,1996
+1007,m.05l1ky,Apple Dumpling Gang,1975
+1008,m.06rpz_,Davy Crockett,1955
+1009,m.04f2h9q,Escape to Witch Mountain,1975
+1010,m.01p0rd,Love Bug,1969
+1011,m.06llvx,Herbie Rides Again,1974
+1012,m.05tg9g,Old Yeller,1957
+1013,m.07ntq,Parent Trap,1961
+1014,m.047nzpn,Pollyanna,1960
+1015,m.04hr2d,Homeward Bound: The Incredible Journey,1993
+1016,m.031ryv,Shaggy Dog,1959
+1017,m.03dhpv,Swiss Family Robinson,1960
+1018,m.04h3m_,That Darn Cat!,1965
+1019,m.0dqg_9,20,1954
+1020,m.050r7y,Cool Runnings,1993
+1021,m.08fm68,Angels in the Outfield,1994
+1022,m.023p33,Cinderella,1950
+1023,m.081wtz,Winnie the Pooh and the Blustery Day,1968
+1024,m.0k5jp,Three Caballeros,1945
+1025,m.09s91g,Sword in the Stone,1963
+1026,m.05lvcy,So Dear to My Heart,1949
+1027,m.01msrb,Robin Hood: Prince of Thieves,1991
+1028,m.0kcn7,Mary Poppins,1964
+1029,m.0175k8,Dumbo,1941
+1030,m.01_4h2,Pete's Dragon,1977
+1031,m.01_1pv,Bedknobs and Broomsticks,1971
+1032,m.039zft,Alice in Wonderland,1951
+1033,m.04xg4z,Fox and the Hound,1981
+1034,m.03hjys,Freeway,1996
+1035,m.0cq7tx,Sound of Music,1965
+1036,m.0p3_y,Die Hard,1988
+1037,m.031qr5,Lawnmower Man,1992
+1038,m.0gymhp,Unhook the Stars,1996
+1039,m.0b79j3,Synthetic Pleasures,1995
+1040,m.0bw3r_b,Secret Agent,1996
+1041,m.02wk7b,Secrets & Lies,1996
+1042,m.0pvms,That Thing You Do!,1996
+1043,m.08hlty,To Gillian on Her 37th Birthday,1996
+1044,m.07nvl4,Surviving Picasso,1996
+1046,m.0by8jpy,Beautiful Thing,1996
+1047,m.03305j,Long Kiss Goodnight,1996
+1049,m.02kfzz,Ghost and the Darkness,1996
+1050,m.05ss0g,Looking for Richard,1996
+1051,m.07m9f2,Trees Lounge,1996
+1053,m.02x9pqf,Normal Life,1996
+1054,m.0cmdm1,Get on the Bus,1996
+1055,m.0d35h1,Shadow Conspiracy,1997
+1056,m.01q3y4,Jude,1996
+1057,m.0blpg,Everyone Says I Love You,1996
+1058,m.04j2_lv,Bitter Sugar,1996
+1059,m.01cssf,William Shakespeare's Romeo and Juliet,1996
+1060,m.01ylt7,Swingers,1996
+1061,m.035xwd,Sleepers,1996
+1062,m.084__p,Sunchaser,1996
+1063,m.0kv9yw,Johns,1996
+1064,m.01_5px,Aladdin and the King of Thieves,1996
+1066,m.0bf1f1,Shall We Dance?,1937
+1067,m.07qb96,Damsel in Distress,1937
+1068,m.0bktb,Crossfire,1947
+1069,m.04gjn8,Murder,1944
+1070,m.06vf_w,Macao,1952
+1071,m.04j2ckh,For the Moment,1994
+1073,m.017kz7,Willy Wonka and the Chocolate Factory,1971
+1076,m.064r9j,Innocents,1961
+1077,m.02srl9,Sleeper,1973
+1078,m.04t6jm,Bananas,1971
+1079,m.01sxly,Fish Called Wanda,1988
+1080,m.04k2p,Monty Python's Life of Brian,1979
+1081,m.01k5y0,Victor/Victoria,1982
+1082,m.0902by,Candidate,1972
+1083,m.01nc_h,Great Race,1965
+1084,m.0hvvf,Bonnie and Clyde,1967
+1085,m.03qfwq7,Old Man and the Sea,1958
+1086,m.0k7tq,Dial M for Murder,1954
+1087,m.0c0l3kk,Madame Butterfly,1995
+1088,m.032clf,Dirty Dancing,1987
+1089,m.02h4658,Reservoir Dogs,1992
+1090,m.0sxmx,Platoon,1986
+1091,m.04kwxf,Weekend at Bernie's,1989
+1092,m.02fqxm,Basic Instinct,1992
+1093,m.02vnh1,Doors,1991
+1094,m.07j8r,Crying Game,1992
+1095,m.06d0fg,Glengarry Glen Ross,1992
+1096,m.0bcp9b,Sophie's Choice,1982
+1097,m.0jqn5,E.T. the Extra-Terrestrial,1982
+1098,m.02877g1,Search for One-eye Jimmy,1996
+1099,m.04qyjx,Christmas Carol,1938
+1100,m.02_nsc,Days of Thunder,1990
+1101,m.018js4,Top Gun,1986
+1102,m.0gvswz4,American Strays,1996
+1103,m.0k2_0,Rebel Without a Cause,1955
+1104,m.097zcz,Streetcar Named Desire,1951
+1105,m.08n7j5,Children of the Corn IV: The Gathering,1996
+1111,m.08pxdl,Microcosmos,1996
+1112,m.0c9nw_,Palookaville,1996
+1113,m.08b3lp,Associate,1996
+1114,m.02wjh2,Funeral,1996
+1116,m.05_6z2,Single Girl,1995
+1117,m.0cdkzm,Eighth Day,1996
+1119,m.04j34jp,Drunks,1997
+1120,m.0170th,People vs. Larry Flynt,1996
+1121,m.06lsnn,Glory Daze,1996
+1123,m.0crv8dy,Perfect Candidate,1996
+1124,m.03hj3b3,On Golden Pond,1981
+1125,m.05r1bb,Return of the Pink Panther,1974
+1126,m.03qqd6,Drop Dead Fred,1991
+1127,m.0ccsq,Abyss,1989
+1128,m.051_sx,Fog,1980
+1129,m.02p5d,Escape from New York,1981
+1130,m.05nsx8,Howling,1980
+1131,m.041cjn,Jean de Florette,1986
+1132,m.041cm9,Manon of the Spring,1986
+1133,m.04j1j54,Talking About Sex,1994
+1134,m.0crrlyn,Johnny 100 Pesos,1993
+1135,m.01jw6z,Private Benjamin,1980
+1136,m.04zl8,Monty Python and the Holy Grail,1974
+1139,m.0crrmkw,Everything Relative,1996
+1144,m.04zwj09,Line King: Al Hirschfeld,1996
+1145,m.0cs11q1,Snowriders,1996
+1147,m.037q31,When We Were Kings,1996
+1148,m.03mqwt,Wrong Trousers,1993
+1149,m.04jmndm,JLG/JLG - autoportrait de d�cembre,1994
+1150,m.04_c0y,Return of Martin Guerre,1982
+1151,m.059v0g,Faust,1994
+1152,m.074wlv,He Walked by Night,1948
+1153,m.06jbs4,Raw Deal,1948
+1154,m.074tcn,T-Men,1947
+1160,m.091m7rt,Six of a Kind,1934
+1161,m.026qgmr,Tin Drum,1979
+1162,m.015qnx,Ruling Class,1972
+1163,m.02x0y83,Mina Tannenbaum,1994
+1164,m.05gbht,Two or Three Things I Know About Her,1966
+1167,m.0dy53b,Dear God,1996
+1168,m.085n3x,Bad Moon,1996
+1169,m.08brf3,American Dream,1990
+1170,m.0kvbj9,Best of the Best 3: No Turning Back,1995
+1171,m.03p2xc,Bob Roberts,1992
+1172,m.04m1bm,Cinema Paradiso,1988
+1173,m.05z5lc,Cook the Thief His Wife & Her Lover,1989
+1174,m.07k7gb6,Grosse Fatigue,1994
+1175,m.02b0w4,Delicatessen,1991
+1176,m.036p2_,Double Life of Veronique,1991
+1177,m.03c058,Enchanted April,1991
+1178,m.05sjq,Paths of Glory,1957
+1179,m.03b1sb,Grifters,1990
+1180,m.0743gl,Hear My Song,1991
+1181,m.0gksh95,Shooter,1995
+1183,m.0pv3x,English Patient,1996
+1184,m.0d0hvd,Mediterraneo,1991
+1185,m.0yzvw,My Left Foot,1989
+1186,m.0221zw,Sex,1989
+1187,m.03b21c,Passion Fish,1992
+1188,m.02n9bh,Strictly Ballroom,1992
+1189,m.02txgy,Thin Blue Line,1988
+1190,m.01gbd4,Tie Me Up! Tie Me Down!,1990
+1191,m.04y9ckx,Madonna: Truth or Dare,1991
+1192,m.079vv6,Paris Is Burning,1990
+1193,m.07xtqq,One Flew Over the Cuckoo's Nest,1975
+1194,m.04p80y,Up in Smoke,1978
+1196,m.0f3m1,Star Wars: Episode V - The Empire Strikes Back,1980
+1197,m.07nn0,Princess Bride,1987
+1198,m.0f4yh,Raiders of the Lost Ark,1981
+1199,m.0jwmp,Brazil,1985
+1200,m.01f8hf,Aliens,1986
+1201,m.07rty,Good,1966
+1202,m.01ydpv,Withnail and I,1987
+1203,m.0m_tj,12 Angry Men,1957
+1204,m.0bx0l,Lawrence of Arabia,1962
+1206,m.05ldxl,Clockwork Orange,1971
+1207,m.0ccck7,To Kill a Mockingbird,1962
+1208,m.0jzw,Apocalypse Now,1979
+1209,m.01pvq3,Once Upon a Time in the West,1969
+1210,m.0ddjy,Star Wars: Episode VI - Return of the Jedi,1983
+1211,m.0822j,Wings of Desire,1987
+1212,m.0jdr0,Third Man,1949
+1213,m.0h6r5,GoodFellas,1990
+1214,m.067ghz,Alien,1979
+1215,m.014hr,Army of Darkness,1993
+1216,m.0h7l2,Big Blue,1988
+1217,m.0k2m6,Ran,1985
+1218,m.02b63c,Killer,1989
+1219,m.05z7c,Psycho,1960
+1220,m.0c8tkt,Blues Brothers,1980
+1221,m.0jsf6,Godfather: Part II,1974
+1222,m.0333t,Full Metal Jacket,1987
+1223,m.03mqzh,Grand Day Out,1992
+1224,m.016ywb,Henry V,1989
+1225,m.042y1c,Amadeus,1984
+1226,m.0j80w,Quiet Man,1952
+1227,m.028_yv,Once Upon a Time in America,1984
+1228,m.06cm5,Raging Bull,1980
+1230,m.0hmr4,Annie Hall,1977
+1231,m.0sxgv,Right Stuff,1983
+1232,m.01q19y,Stalker,1979
+1233,m.02h22,Boat,1981
+1234,m.0gw7p,Sting,1973
+1235,m.03gmw,Harold and Maude,1971
+1236,m.0bfx49,Trust,1990
+1237,m.017yv4,Seventh Seal,1957
+1238,m.01k40w,Local Hero,1983
+1240,m.07ghq,Terminator,1984
+1241,m.011zms,Braindead,1992
+1242,m.02jxbw,Glory,1989
+1243,m.02q1clr,Rosencrantz and Guildenstern Are Dead,1990
+1244,m.0jyx6,Manhattan,1979
+1245,m.0ff4w,Miller's Crossing,1990
+1246,m.0yzbg,Dead Poets Society,1989
+1247,m.07cdz,Graduate,1967
+1248,m.0h1kp,Touch of Evil,1958
+1249,m.01n81q,Nikita,1990
+1250,m.0bs4r,Bridge on the River Kwai,1957
+1251,m.01v74p,8 1/2,1963
+1252,m.0hv4t,Chinatown,1974
+1253,m.0jqhd,Day the Earth Stood Still,1951
+1254,m.02q_ncg,Treasure of the Sierra Madre,1948
+1255,m.02mkwj,Bad Taste,1987
+1256,m.0jqmq,Duck Soup,1933
+1257,m.03pk0l,Better Off Dead...,1985
+1258,m.04fjzv,Shining,1980
+1259,m.0m2kd,Stand by Me,1986
+1260,m.0hjsp,M,1931
+1261,m.02vhv,Evil Dead II,1987
+1262,m.018rvr,Great Escape,1963
+1263,m.0jqj5,Deer Hunter,1978
+1264,m.0558dk,Diva,1981
+1265,m.011x_4,Groundhog Day,1993
+1266,m.0_92w,Unforgiven,1992
+1267,m.0fy66,Manchurian Candidate,1962
+1268,m.05bnv1,Pump Up the Volume,1990
+1269,m.03c77z,Arsenic and Old Lace,1944
+1270,m.0bt4g,Back to the Future,1985
+1271,m.0kv0zn,Fried Green Tomatoes,1991
+1272,m.0pd4f,Patton,1970
+1273,m.098bd8,Down by Law,1986
+1274,m.02vtyb,Akira,1988
+1275,m.0c2jgd,Highlander,1986
+1276,m.015gsf,Cool Hand Luke,1967
+1277,m.05y0cr,Cyrano de Bergerac,1990
+1278,m.0291ck,Young Frankenstein,1974
+1279,m.06_nny,Night on Earth,1991
+1280,m.0kgxf,Raise the Red Lantern,1991
+1281,m.0gy4z,Great Dictator,1940
+1282,m.0jqtz,Fantasia,1940
+1283,m.0jswp,High Noon,1952
+1284,m.05k7xj,Big Sleep,1946
+1285,m.03m3j,Heathers,1989
+1286,m.03p_np,Somewhere in Time,1980
+1287,m.04v8x9,Ben-Hur,1959
+1288,m.0pdp8,This Is Spinal Tap,1984
+1289,m.047hq,Koyaanisqatsi,1983
+1290,m.03458j,Some Kind of Wonderful,1987
+1291,m.0h_b6x1,Indiana Jones and the Last Crusade,1989
+1292,m.015whm,Being There,1979
+1293,m.0209hj,Gandhi,1982
+1295,m.0kvgnq,Unbearable Lightness of Being,1988
+1296,m.09tkzy,Room with a View,1986
+1297,m.02f_gc,Real Genius,1985
+1298,m.058ymm,Pink Floyd - The Wall,1982
+1299,m.04j4tx,Killing Fields,1984
+1300,m.09rz22,My Life as a Dog,1985
+1301,m.0fb4l,Forbidden Planet,1956
+1302,m.0yzp8,Field of Dreams,1989
+1303,m.09pyqc,Man Who Would Be King,1975
+1304,m.0p9tm,Butch Cassidy and the Sundance Kid,1969
+1305,m.01jf9c,Paris,1984
+1306,m.07vcx,Until the End of the World,1991
+1307,m.082zg,When Harry Met Sally...,1989
+1310,m.04gcxn,Hype!,1996
+1312,m.04j2rlx,Female Perversions,1996
+1313,m.0chxcp,Mad Dog Time,1996
+1315,m.0crsfvz,Paris Was a Woman,1995
+1317,m.04crdpg,I'm Not Rappaport,1996
+1320,m.01f7g_,Alien�,1992
+1321,m.02dj5n,American Werewolf in London,1981
+1322,m.0gbr99,Amityville 1992: It's About Time,1992
+1323,m.0gbqk2,Amityville 3-D,1983
+1324,m.0gbrn0,Amityville: Dollhouse,1996
+1325,m.0gbrk8,Amityville: A New Generation,1993
+1326,m.06pqx7,Amityville II: The Possession,1982
+1327,m.0b8gf1,Amityville Horror,1979
+1328,m.0gbr30,Amityville Curse,1990
+1329,m.09rvx5,Blood For Dracula,1974
+1330,m.09bww2,April Fool's Day,1986
+1331,m.07wzcn,Audrey Rose,1977
+1332,m.0bvl4h,Believers,1987
+1333,m.01s9vc,Birds,1963
+1334,m.0397fk,Blob,1958
+1335,m.06_w4w3,Blood Beach,1981
+1336,m.02pnf43,Body Parts,1991
+1337,m.0921ps,Body Snatcher,1945
+1339,m.01xq8v,Bram Stoker's Dracula,1992
+1340,m.0jq4r,Bride of Frankenstein,1935
+1341,m.0b8g0y,Burnt Offerings,1976
+1342,m.04mqwg,Candyman,1992
+1343,m.016y_f,Cape Fear,1991
+1344,m.016y_v,Cape Fear,1962
+1345,m.0ct5zc,Carrie,1976
+1346,m.0426fc,Cat People,1982
+1347,m.08ll52,Nightmare on Elm Street,1984
+1348,m.0l507,Nosferatu,1922
+1349,m.0b813t,Nosferatu a Venezia,1986
+1350,m.019k65,Omen,1976
+1351,m.06_m2r,Blood & Wine,1997
+1352,m.09h5k1,Albino Alligator,1996
+1353,m.08rr3p,Mirror Has Two Faces,1996
+1354,m.03bxwl,Breaking the Waves,1996
+1355,m.05hmgv,Nightwatch,1997
+1356,m.06r2h,Star Trek: First Contact,1996
+1357,m.011yl_,Shine,1996
+1358,m.0170qy,Sling Blade,1996
+1359,m.04lq39,Jingle All the Way,1996
+1360,m.03c9svk,Identification of a Woman,1982
+1361,m.0193s9,Paradise Lost: The Child Murders at Robin Hood Hills,1996
+1363,m.032kr9,Preacher's Wife,1996
+1364,m.02738tt,Zero Kelvin,1995
+1365,m.01j3xp,Ridicule,1996
+1366,m.055td_,Crucible,1996
+1367,m.018gq3,101 Dalmatians,1996
+1369,m.02rdyx7,I Can't Sleep,1994
+1370,m.027_9n,Die Hard 2,1990
+1371,m.01pg1t,Star Trek: The Motion Picture,1979
+1372,m.015bpl,Star Trek VI: The Undiscovered Country,1991
+1373,m.012gk9,Star Trek V: The Final Frontier,1989
+1374,m.06r2_,Star Trek: The Wrath of Khan,1982
+1375,m.01dc8g,Star Trek III: The Search for Spock,1984
+1376,m.0m5s5,Star Trek IV: The Voyage Home,1986
+1377,m.01hq1,Batman Returns,1992
+1378,m.031tc2,Young Guns,1988
+1379,m.031zk3,Young Guns II,1990
+1380,m.01xlqd,Grease,1978
+1381,m.01qd2t,Grease 2,1982
+1382,m.0hqpp,Marked for Death,1990
+1383,m.02854l1,Adrenalin: Fear the Rush,1996
+1384,m.04j2qhf,Substance of Fire,1996
+1385,m.0hqqs,Under Siege,1992
+1387,m.0jyb4,Jaws,1975
+1388,m.01zhjh,Jaws 2,1978
+1389,m.04ddm4,Jaws 3-D,1983
+1390,m.03cygf,My Fellow Americans,1996
+1391,m.09lxv9,Mars Attacks!,1996
+1392,m.04f46y,Citizen Ruth,1996
+1393,m.011ykb,Jerry Maguire,1996
+1394,m.01pnf9,Raising Arizona,1987
+1395,m.06spyn,Tin Men,1987
+1396,m.04m91p,Sneakers,1992
+1397,m.04_2tf,Bastard Out of Carolina,1996
+1398,m.0g_xzy,In Love and War,1996
+1399,m.03bxw5,Marvin's Room,1996
+1401,m.04x4v5,Ghosts of Mississippi,1996
+1404,m.084zn8,Night Falls on Manhattan,1997
+1405,m.05873x,Beavis and Butt-head Do America,1996
+1406,m.0fcj9r,C�r�monie,1995
+1407,m.0sy44,Scream,1996
+1408,m.050r1z,Last of the Mohicans,1992
+1409,m.08v6ll,Michael,1996
+1410,m.05nysd,Evening Star,1996
+1411,m.0prh7,Hamlet,1996
+1412,m.0dlm5p,Some Mother's Son,1996
+1413,m.057hp_,Whole Wide World,1996
+1414,m.0c492j,Mother,1996
+1415,m.0513fcb,Thieves,1996
+1416,m.07vf5c,Evita,1996
+1417,m.03lvwp,Portrait of a Lady,1996
+1419,m.02thj_,Walkabout,1971
+1420,m.0dfcvl,Message to Love: The Isle of Wight Festival,1996
+1422,m.07zcw5,Murder at 1600,1997
+1425,m.01ggr0,Fierce Creatures,1997
+1426,m.0dy5gj,Zeus and Roxanne,1997
+1427,m.07gf00,Turbulence,1997
+1428,m.02qd4l7,Angel Baby,1995
+1429,m.07yhfx,Jackie Chan's First Strike,1996
+1431,m.08vw2f,Beverly Hills Ninja,1997
+1432,m.07s981,Metro,1997
+1433,m.0gkr2nb,Machine,1994
+1436,m.0cc7v_t,Falling in Love Again,1980
+1437,m.04j31r3,Cement Garden,1993
+1438,m.024y_s,Dante's Peak,1997
+1439,m.0kv2l4,Meet Wally Sparks,1997
+1440,m.0d5jj8,Amos & Andrew,1993
+1441,m.028f12,Benny & Joon,1993
+1442,m.05g8f8,Prefontaine,1997
+1444,m.0272hhx,Guantanamera,1994
+1445,m.0fhgzq,McHale's Navy,1997
+1446,m.037rcv,Kolya,1996
+1447,m.08dk0b,Gridlock'd,1997
+1449,m.034ffy,Waiting for Guffman,1996
+1450,m.0272x_4,Prisoner of the Mountains,1996
+1453,m.03ynp_,Beautician and the Beast,1997
+1454,m.08x6vf,SubUrbia,1997
+1455,m.0gw5pjg,Hotel de Love,1996
+1456,m.08rwj2,Pest,1997
+1457,m.0125z1,Fools Rush In,1997
+1458,m.0947tg,Touch,1997
+1459,m.08sz9r,Absolute Power,1997
+1460,m.04h3j4,That Darn Cat!,1997
+1461,m.06zlpj,Vegas Vacation,1997
+1463,m.0g2v3p,That Old Feeling,1997
+1464,m.01d259,Lost Highway,1997
+1465,m.08n4j3,Rosewood,1997
+1466,m.06cpd9,Donnie Brasco,1997
+1468,m.04qkcl,Booty Call,1997
+1470,m.04cswcw,Rhyme & Reason,1997
+1471,m.055z9d,Boys Life 2,1997
+1472,m.0f1vf7,City of Industry,1997
+1473,m.08lkg6,Best Men,1997
+1474,m.04m3tn,Jungle2Jungle,1997
+1475,m.03h8rg,Kama Sutra: A Tale of Love,1996
+1476,m.028b3bj,Private Parts,1997
+1477,m.0849_s,Love Jones,1997
+1479,m.05b_fl,Saint,1997
+1480,m.03mbdgx,Smilla's Sense of Snow,1997
+1482,m.047gqfd,Van,1996
+1483,m.06kl78,Crash,1996
+1484,m.09jbn5,Daytrippers,1996
+1485,m.0309c5,Liar Liar,1997
+1486,m.07s4vp7,Quiet Room,1996
+1487,m.01p8m2,Selena,1997
+1488,m.031txz,Devil's Own,1997
+1489,m.031bd0,Cats Don't Dance,1997
+1490,m.086s7z,B*A*P*S,1997
+1493,m.0kv7q4,Love and Other Catastrophes,1996
+1495,m.05f64z,Turbo: A Power Rangers Movie,1997
+1496,m.02rf_2h,Anna Karenina,1997
+1497,m.087k4r,Double Team,1997
+1498,m.07bj76,Inventing the Abbotts,1997
+1499,m.03459x,Anaconda,1997
+1500,m.058q46,Grosse Pointe Blank,1997
+1501,m.07jsv1,Keys to Tulsa,1997
+1502,m.0bph8n,Kissed,1996
+1503,m.0b0102,8 Heads in a Duffel Bag,1997
+1504,m.052ks3q,Hollow Reed,1996
+1507,m.0bvvw7,Paradise Road,1997
+1508,m.0dy16d,Traveller,1997
+1509,m.071x8p,All Over Me,1997
+1510,m.0bvmqjd,Brother's Kiss,1997
+1511,m.026dvsf,A Chef in Love,1996
+1513,m.01cms4,Romy and Michele's High School Reunion,1997
+1514,m.03bxff,Temptress Moon,1996
+1515,m.02nlfw,Volcano,1997
+1516,m.0fm079,Children of the Revolution,1996
+1517,m.013q0p,Austin Powers: International Man of Mystery,1997
+1518,m.05rrvj,Breakdown,1997
+1519,m.02880kr,Broken English,1996
+1520,m.0bmbftx,Commandments,1997
+1522,m.02w57rn,Ripe,1996
+1523,m.0bwrjx,Truth or Consequences,1997
+1525,m.0c2xsg,Warriors of Virtue,1997
+1526,m.03tpl2,Fathers' Day,1997
+1527,m.0125xq,Fifth Element,1997
+1528,m.05smxy,Intimate Relations,1996
+1529,m.04jvls,Nowhere,1997
+1531,m.08yrpyp,Losing Chase,1996
+1532,m.08gm0q,Sprung,1997
+1533,m.096rvd,Promise,1996
+1534,m.0642ff8,Bonheur,1965
+1535,m.04ctwyf,Love! Valour! Compassion!,1997
+1537,m.04sm94,Shall We Dance?,1996
+1538,m.0dpkp_,Second Jungle Book: Mowgli & Baloo,1997
+1539,m.05q848,Twin Town,1997
+1541,m.01v84j,Addicted to Love,1997
+1542,m.04ngxk,Brassed Off,1996
+1543,m.0cjcvt8,Designated Mourner,1997
+1544,m.0315rp,Lost World: Jurassic Park,1997
+1545,m.08gl5b,Ponette,1996
+1546,m.02lscw,Schizopolis,1996
+1547,m.026dk1k,Shiloh,1997
+1548,m.04w1p1,War at Home,1996
+1549,m.04j2t3y,Rough Magic,1995
+1550,m.0c3lr0,Trial and Error,1997
+1551,m.0gd7ys,Buddy,1997
+1552,m.01qb559,Con Air,1997
+1553,m.0crrmxx,Late Bloomers,1996
+1554,m.02tgd2,Pillow Book,1995
+1555,m.0b7bn1r,To Have,1995
+1556,m.0419kt,Speed 2: Cruise Control,1997
+1561,m.02w6yl0,Wedding Bell Blues,1996
+1562,m.01hqk,Batman & Robin,1997
+1563,m.06w9qhg,Dream With the Fishes,1997
+1564,m.0b6p8b6,Roseanna's Grave,1997
+1565,m.06t28m,Head Above Water,1996
+1566,m.016017,Hercules,1997
+1567,m.0670l0,Last Time I Committed Suicide,1997
+1569,m.01pgnr,My Best Friend's Wedding,1997
+1570,m.0brs6b,Tetsuo II: Body Hammer,1992
+1571,m.0d53ny,When the Cats Away,1996
+1572,m.046t_0,Contempt,1963
+1573,m.02_fz3,Face/Off,1997
+1574,m.04j1zl8,Fall,1997
+1575,m.0cm6ts,Gabbeh,1996
+1579,m.0479kqt,For Ever Mozart,1996
+1580,m.016dj8,Men in Black,1997
+1581,m.06_w9f,Out to Sea,1997
+1582,m.0f00sg,Wild America,1997
+1583,m.0345ll,Simple Wish,1997
+1584,m.026lgs,Contact,1997
+1585,m.02prkmj,Love Serenade,1996
+1586,m.034f7w,G.I. Jane,1997
+1587,m.09csq1,Conan the Barbarian,1982
+1588,m.09c_pm,George of the Jungle,1997
+1589,m.0417k8,Cop Land,1997
+1590,m.03vfz3,Event Horizon,1997
+1591,m.04zd28,Spawn,1997
+1592,m.04h3br,Air Bud,1997
+1593,m.0fyg25,Picture Perfect,1997
+1594,m.02cky7,In the Company of Men,1997
+1595,m.0bdj28,Free Willy 3: The Rescue,1997
+1596,m.08m026,Career Girls,1997
+1597,m.0127ps,Conspiracy Theory,1997
+1598,m.06lpgy,Desperate Measures,1998
+1599,m.06m78c,Steel,1997
+1600,m.07c0_4,She's So Lovely,1997
+1601,m.060p1m,Hoodlum,1997
+1602,m.0g7vvf,Leave It to Beaver,1997
+1603,m.04d0ng,Mimic,1997
+1604,m.05h92k,Money Talks,1997
+1605,m.09bpft,Excess Baggage,1997
+1606,m.05b7dt,Kull the Conqueror,1997
+1608,m.01jmyj,Air Force One,1997
+1609,m.06_z5q,187,1997
+1610,m.09ldwy,Hunt for Red October,1990
+1611,m.02vrpz,My Own Private Idaho,1991
+1612,m.0fwd14,Kiss Me,1997
+1613,m.0b_zqd8,Star Maps,1997
+1614,m.01633c,In & Out,1997
+1615,m.018tmf,Edge,1997
+1616,m.034scm,Peacemaker,1997
+1617,m.011yqc,L.A. Confidential,1997
+1619,m.02psgy6,Seven Years in Tibet,1997
+1620,m.04cpvs,Kiss the Girls,1997
+1621,m.043ncp,Soul Food,1997
+1622,m.04j30k9,Kicked in the Head,1997
+1623,m.02brzs,Wishmaster,1997
+1624,m.0ctnhv,Thousand Acres,1997
+1625,m.0b6ft5,Game,1997
+1626,m.0hqvw,Fire Down Below,1997
+1627,m.07c11y,U Turn,1997
+1629,m.0dy5cg,MatchMaker,1997
+1631,m.027wwyf,Assignment,1997
+1632,m.0b77v3j,Smile Like Yours,1997
+1633,m.0170w2,Ulee's Gold,1997
+1635,m.0kvgxk,Ice Storm,1997
+1636,m.04yb3l5,Stag,1997
+1639,m.0gd92,Chasing Amy,1997
+1640,m.0bp3r0,How to Be a Player,1997
+1641,m.011yph,Full Monty,1997
+1642,m.0dddh03,Indian Summer,1996
+1643,m.01242_,Mrs. Brown,1997
+1644,m.01lt24,I Know What You Did Last Summer,1997
+1645,m.031s5z,Devil's Advocate,1997
+1646,m.0dkhyx,Rocket Man,1997
+1647,m.0gg285,Playing God,1997
+1648,m.06nmwj,House of Yes,1997
+1649,m.01zh0v,Fast,1997
+1650,m.03cvqpc,Washington Square,1997
+1651,m.0d01hx,Telling Lies in America,1997
+1652,m.066d6g,Year of the Horse,1997
+1653,m.0bscw,Gattaca,1997
+1654,m.097j2g,FairyTale: A True Story,1997
+1655,m.02ry6wf,Phantoms,1998
+1656,m.07dbcw,Swept from the Sea,1997
+1657,m.09sfcjs,Wonderland,1997
+1658,m.03pjlk,Life Less Ordinary,1997
+1659,m.0d_q16,Hurricane Streets,1998
+1660,m.06r6x8,Eve's Bayou,1997
+1661,m.0d2pd7,Switchback,1997
+1662,m.0cc2r_,Gang Related,1997
+1663,m.02q2jw,Stripes,1981
+1664,m.02rdyyz,N�nette et Boni,1996
+1665,m.0d1s52,Bean,1997
+1666,m.02qh42w,Hugo Pool,1997
+1667,m.02wz313,Mad City,1997
+1668,m.0d7z7_,One Night Stand,1997
+1669,m.01m_90,Tango Lesson,1997
+1670,m.0893dl,Welcome To Sarajevo,1997
+1671,m.03cp2z2,Deceiver,1997
+1672,m.01b195,Rainmaker,1997
+1673,m.02b6n9,Boogie Nights,1997
+1674,m.0llcx,Witness,1985
+1675,m.02rmcwr,Incognito,1997
+1676,m.01cycq,Starship Troopers,1997
+1677,m.05zplhz,Critical Care,1997
+1678,m.0dq_ss,Joy Luck Club,1993
+1679,m.03yndc,Chairman of the Board,1998
+1680,m.05kxf3,Sliding Doors,1998
+1681,m.02g5q1,Mortal Kombat: Annihilation,1997
+1682,m.01hv3t,Truman Show,1998
+1683,m.09z2b7,Wings of the Dove,1997
+1684,m.0bsl5lg,Mrs. Dalloway,1997
+1685,m.0fhyx0,I Love You,1996
+1686,m.08kmsx,Red Corner,1997
+1687,m.04sntd,Jackal,1997
+1688,m.01pvxl,Anastasia,1997
+1689,m.07ffzp,Man Who Knew Too Little,1997
+1690,m.01f7gh,Alien: Resurrection,1997
+1693,m.0260bz,Amistad,1997
+1694,m.0170v9,Apostle,1997
+1695,m.04636kl,Artemisia,1997
+1696,m.07s7cs5,Bent,1997
+1699,m.02qg_qm,Butcher Boy,1998
+1701,m.06lpmt,Deconstructing Harry,1997
+1702,m.04vcfx,Flubber,1997
+1703,m.06_557,For Richer or Poorer,1997
+1704,m.011ypx,Good Will Hunting,1997
+1707,m.033g39,Home Alone 3,1997
+1711,m.05_5rjx,Midnight in the Garden of Good and Evil,1997
+1713,m.06yx4x,Mouse Hunt,1997
+1715,m.04bb7p,Office Killer,1997
+1717,m.02v5_g,Scream 2,1997
+1718,m.0czcskx,Stranger in the House,1997
+1719,m.02r858_,Sweet Hereafter,1997
+1721,m.0dr_4,Titanic,1997
+1722,m.01v1ln,Tomorrow Never Dies,1997
+1724,g.122dshst,Full Speed,1996
+1725,m.04j2wf9,Education of Little Tree,1997
+1726,m.0kvbl6,Postman,1997
+1727,m.033s0w,Horse Whisperer,1998
+1728,m.04hkxs,Winter Guest,1997
+1729,m.0234j5,Jackie Brown,1997
+1730,m.05dy7p,Kundun,1997
+1731,m.09c_lj,Mr. Magoo,1997
+1732,m.07bwr,Big Lebowski,1998
+1733,m.02jvd9,Afterglow,1997
+1734,m.05pn9p,My Life in Pink,1997
+1735,m.027tvnh,Great Expectations,1998
+1739,m.0cchnx,3 Ninjas: High Noon On Mega Mountain,1998
+1743,m.05v7hrx,Arguing the World,1996
+1744,m.0f8t7l,Firestorm,1998
+1746,m.0bnxck,Senseless,1998
+1747,m.0n1s0,Wag the Dog,1997
+1748,m.063m9m,Dark City,1998
+1749,m.03y062v,Leading Man,1996
+1750,m.0h67rf,Star Kid,1997
+1752,m.06gyxs,Hard Rain,1998
+1753,m.03259y,Half Baked,1998
+1754,m.04bpzh,Fallen,1998
+1755,m.077vj_,Shooting Fish,1997
+1756,m.0815dq,Prophecy II,1998
+1759,m.059wxk,Four Days in September,1997
+1760,m.0bz6sq,Spice World,1997
+1762,m.07wmn_,Deep Rising,1998
+1767,m.091f4r,Music From Another Room,1998
+1769,m.04qbts,Replacement Killers,1998
+1770,m.0cc7kxx,B. Monkey,1998
+1771,m.026yk2c,Night Flier,1997
+1772,m.01jnc_,Blues Brothers 2000,1998
+1773,m.09twfb,Tokyo Fist,1995
+1777,m.02bhsc,Wedding Singer,1998
+1779,m.04rncw,Sphere,1998
+1780,m.04z_svj,Ayn Rand: A Sense of Life,1997
+1782,m.0gffwj,Little City,1998
+1783,m.089d0v,Palmetto,1998
+1784,m.011yn5,As Good As It Gets,1997
+1785,m.03flsn,King of New York,1990
+1787,m.0crtbs5,Paralyzing Fear: The Story of Polio in America,1998
+1788,m.0crrp4b,Men With Guns,1997
+1791,m.03f418,Twilight,1998
+1792,m.06p_zf,U.S. Marshalls,1998
+1793,m.06zb09,Welcome to Woop-Woop,1997
+1794,m.01s7gq,Love and Death on Long Island,1997
+1795,m.04j1zrk,Callej�n de los milagros,1995
+1796,m.094qc4,In God's Hands,1998
+1797,m.092cdq,Everest,1998
+1798,m.06wn0b,Hush,1998
+1799,m.04tty2,Suicide Kings,1997
+1801,m.0d61px,Man in the Iron Mask,1998
+1804,m.035s95,Newton Boys,1998
+1805,m.026qnn,Wild Things,1998
+1806,m.02mptd,Paulie,1998
+1807,m.0315tc,Cool Dry Place,1998
+1809,m.0381zv,Hana-bi,1997
+1810,m.02q7fl9,Primary Colors,1998
+1811,m.0h2lfh,Niagara,1997
+1812,m.040tbq,Wide Awake,1998
+1814,m.03hl_76,Price Above Rubies,1998
+1816,m.026nvn_,Two Girls and a Guy,1997
+1817,m.02w2_wg,No Looking Back,1998
+1821,m.01qjx3,Object of My Affection,1998
+1822,m.0275_l2,Meet the Deedles,1998
+1824,m.02r53vq,Homegrown,1998
+1825,m.072hxn,Player's Club,1998
+1826,m.0c_swc,Barney's Great Adventure,1998
+1827,m.02xctk,Big One,1997
+1829,m.024j4p,Chinese Box,1997
+1831,m.02qlp4,Lost in Space,1998
+1832,m.0524dw0,Heaven's Burning,1997
+1833,m.032_yq,Mercury Rising,1998
+1834,m.068h4t,Spanish Prisoner,1997
+1835,m.014_x2,City of Angels,1998
+1836,m.08jfdl,Last Days of Disco,1998
+1837,m.06_xrn,Odd Couple II,1998
+1839,m.0br30k,My Giant,1998
+1840,m.05k4z0,He Got Game,1998
+1841,m.0g3g0y,Gingerbread Man,1998
+1842,m.0b6j92b,Illtown,1996
+1844,m.0b87gw,Live Flesh,1997
+1845,m.091ckd,Zero Effect,1998
+1846,m.09_tf4,Nil By Mouth,1997
+1848,m.02vrd4z,Borrowers,1997
+1849,m.09g9dc7,Prince Valiant,1997
+1850,m.04j1cvh,I Love You,1998
+1851,m.03m4lkv,Leather Jacket Love Story,1997
+1853,m.01mszz,Alan Smithee Film: Burn Hollywood Burn,1997
+1854,m.08vh65,Kissing a Fool,1998
+1855,m.0cr8t2,Krippendorf's Tribe,1998
+1856,m.042599,Kurt & Courtney,1998
+1857,m.06fhrc,Real Blonde,1997
+1858,m.02_s29,Mr. Nice Guy,1997
+1859,m.062tfl,Taste of Cherry,1997
+1860,m.01x835,Character,1997
+1861,m.0h0k93,Junk Mail,1997
+1862,m.0346m0,Species II,1998
+1863,m.0c8w1f,Major League: Back to the Minors,1998
+1864,m.06_3rp,Sour Grapes,1998
+1865,m.0cm37s,Wild Man Blues,1998
+1866,m.03fygl,Big Hit,1998
+1867,m.0dq7ft,Tarzan and the Lost City,1998
+1869,m.08bq1f,Black Dog,1998
+1870,m.0896wk,Dancer,1998
+1871,m.0bggkyq,Friend of the Deceased,1997
+1872,m.0h0t80,Go Now,1995
+1873,m.05sjt9,Mis�rables,1998
+1874,m.0bl0zs,Still Breathing,1997
+1875,m.03vn8x,Clockwatchers,1997
+1876,m.01q2nx,Deep Impact,1998
+1878,m.05zq5_,Woo,1998
+1879,m.0192gm,Hanging Garden,1997
+1880,m.07hgy8,Lawn Dogs,1997
+1881,m.04q4fh,Quest for Camelot,1998
+1882,m.04fzfj,Godzilla,1998
+1883,m.02v8kmz,Bulworth,1998
+1884,m.0f8j13,Fear and Loathing in Las Vegas,1998
+1885,m.04h41v,Opposite of Sex,1998
+1886,m.0f20sd,I Got the Hook Up,1998
+1887,m.05fkxp,Almost Heroes,1998
+1888,m.08vdz8,Hope Floats,1998
+1889,m.0cly9s,Insomnia,1997
+1890,m.05bzs3_,Little Boy Blue,1997
+1891,m.0fl2jh,Ugly,1997
+1892,m.019wds,Perfect Murder,1998
+1893,m.02vxykh,Beyond Silence,1996
+1894,m.01_wsl,Six Days Seven Nights,1998
+1895,m.02f25m,Can't Hardly Wait,1998
+1896,m.04j373n,Cousin Bette,1998
+1897,m.051tnm,High Art,1998
+1898,m.01kyyl,Land Girls,1998
+1899,m.026kv_j,Passion in the Desert,1998
+1900,m.03pnwz,Children of Heaven,1997
+1901,m.03n4qw,Dear Jesse,1997
+1902,m.07hrkp,Dream for an Insomniac,1996
+1903,m.0d7w1d,Hav Plenty,1997
+1904,m.0bjp8w,Henry Fool,1997
+1906,m.03cw29q,Mr. Jealousy,1997
+1907,m.0fgrm,Mulan,1998
+1908,m.0bdxg07,Resurrection Man,1998
+1909,m.0443v1,X-Files: Fight the Future,1998
+1910,m.02722jh,I Went Down,1997
+1911,m.07j_qm,Doctor Dolittle,1998
+1912,m.02jkkv,Out of Sight,1998
+1913,m.0fbdcb,Picnic at Hanging Rock,1975
+1914,m.0540f_,Smoke Signals,1998
+1915,m.05q7688,Voyage to the Beginning of the World,1997
+1916,m.01fxc3,Buffalo 66,1998
+1917,m.0ds33,Armageddon,1998
+1918,m.033g4d,Lethal Weapon 4,1998
+1919,m.02rmhgg,Madeline,1998
+1920,m.01738w,Small Soldiers,1998
+1921,m.02bz36,Pi,1998
+1922,m.02slc47,Whatever,1998
+1923,m.01pgp6,There's Something About Mary,1998
+1924,m.068_g,Plan 9 from Outer Space,1958
+1925,m.0gkm1,Wings,1927
+1926,m.0glt1,Broadway Melody,1929
+1927,m.0cbl95,All Quiet on the Western Front,1930
+1928,m.07b506,Cimarron,1931
+1929,m.0c5wn,Grand Hotel,1932
+1930,m.0b8388,Cavalcade,1933
+1931,m.0bbgly,Mutiny on the Bounty,1935
+1932,m.0c3hq,Great Ziegfeld,1936
+1933,m.0c1l7,Life of �mile Zola,1937
+1934,m.04d_mvd,You Can't Take It With You,1938
+1935,m.0cq8qq,How Green Was My Valley,1941
+1936,m.0cq8nx,Mrs. Miniver,1942
+1937,m.0bmpm,Going My Way,1944
+1938,m.0bm2x,Lost Weekend,1945
+1939,m.0bl5c,Best Years of Our Lives,1946
+1940,m.0bkq7,Gentleman's Agreement,1947
+1941,m.0kt_4,Hamlet,1948
+1942,m.0c5qvw,All the King's Men,1949
+1943,m.0bl06,Greatest Show on Earth,1952
+1944,m.0bm2g,From Here to Eternity,1953
+1945,m.0bmhn,On the Waterfront,1954
+1946,m.0gysrn1,Marty,1955
+1947,m.0ccd3x,West Side Story,1961
+1948,m.0p4v_,Tom Jones,1963
+1949,m.0cq806,Man for All Seasons,1966
+1950,m.05qm9f,In the Heat of the Night,1967
+1951,m.0cq86w,Oliver!,1968
+1952,m.0bl1_,Midnight Cowboy,1969
+1953,m.0pd64,French Connection,1971
+1954,m.0cf08,Rocky,1976
+1955,m.0p_th,Kramer Vs. Kramer,1979
+1956,m.0qm98,Ordinary People,1980
+1957,m.01qz5,Chariots of Fire,1981
+1958,m.0sxfd,Terms of Endearment,1983
+1959,m.0mcl0,Out of Africa,1985
+1960,m.0ywrc,Last Emperor,1987
+1961,m.0yx_w,Rain Man,1988
+1962,m.0yyts,Driving Miss Daisy,1989
+1963,m.01rn7k,Take the Money and Run,1969
+1964,m.01gm5j,Klute,1971
+1965,m.06m2j,Repo Man,1984
+1966,m.09gjyq,Metropolitan,1990
+1967,m.0184tc,Labyrinth,1986
+1968,m.07cfg,Breakfast Club,1985
+1969,m.08mczf,Nightmare on Elm Street Part 2: Freddy's Revenge,1985
+1970,m.08md07,Nightmare on Elm Street 3: Dream Warriors,1987
+1971,m.08md65,Nightmare on Elm Street 4: The Dream Master,1988
+1972,m.08md6z,Nightmare on Elm Street 5: The Dream Child,1989
+1973,m.08dl83,Freddy's Dead: The Final Nightmare,1991
+1974,m.016mng,Friday the 13th,1980
+1975,m.07022t,Friday the 13th Part 2,1981
+1976,m.073bl9,Friday the 13th Part 3: 3D,1982
+1977,m.07m7j8,Friday the 13th: The Final Chapter,1984
+1978,m.0743ql,Friday the 13th Part V: A New Beginning,1985
+1979,m.0732_0,Friday the 13th Part VI: Jason Lives,1986
+1980,m.07m7ls,Friday the 13th Part VII: The New Blood,1988
+1981,m.075xrl,Friday the 13th Part VIII: Jason Takes Manhattan,1989
+1982,m.0m3gy,Halloween,1978
+1983,m.06d5sb,Halloween II,1981
+1984,m.01k866,Halloween III: Season of the Witch,1983
+1985,m.06d6ch,Halloween 4: The Return of Michael Myers,1988
+1986,m.06d6nx,Halloween 5: The Revenge of Michael Myers,1989
+1987,m.07h_rj,Prom Night,1980
+1988,m.0gbs1h,Hello Mary Lou: Prom Night II,1987
+1989,m.0gcvgc,Prom Night III: The Last Kiss,1989
+1990,m.0gcvny,Prom Night IV: Deliver Us From Evil,1992
+1991,m.02mkzj,Child's Play,1988
+1992,m.02ml29,Child's Play 2,1990
+1993,m.02mkys,Child's Play 3,1992
+1994,m.0h21v2,Poltergeist,1982
+1995,m.0h224p,Poltergeist II: The Other Side,1986
+1996,m.0959db,Poltergeist III,1988
+1997,m.035yn8,Exorcist,1973
+1998,m.02r71n,Exorcist II: The Heretic,1977
+1999,m.04nkm_,Exorcist III,1990
+2000,m.01j65x,Lethal Weapon,1987
+2001,m.033g1f,Lethal Weapon 2,1989
+2002,m.033g3n,Lethal Weapon 3,1992
+2003,m.021s41,Gremlins,1984
+2004,m.04sr1h,Gremlins 2: The New Batch,1990
+2005,m.0mbql,Goonies,1985
+2006,m.034b6k,Mask of Zorro,1998
+2007,m.0fhxrz,Polish Wedding,1998
+2008,m.0gkqym3,This World,1996
+2009,m.0cc7x,Soylent Green,1973
+2010,m.0d6b7,Metropolis,1926
+2011,m.01f7jt,Back to the Future Part II,1989
+2012,m.01f7kl,Back to the Future Part III,1990
+2013,m.02k1pr,Poseidon Adventure,1972
+2014,m.0kv9wh,Freaky Friday,1977
+2015,m.051s4m,Absent Minded Professor,1961
+2016,m.0dfd87,Apple Dumpling Gang Rides Again,1979
+2017,m.056rwf,Babes in Toyland,1961
+2018,m.04j1zjw,Bambi,1942
+2019,m.07q78,Seven Samurai,1954
+2020,m.0k2cb,Dangerous Liaisons,1988
+2021,m.0jdgr,Dune,1984
+2022,m.026fm_6,Last Temptation of Christ,1988
+2023,m.0y_yw,Godfather: Part III,1990
+2024,m.0bght1,Rapture,1991
+2025,m.06c753,Lolita,1997
+2026,m.06dfq2,Disturbing Behavior,1998
+2027,m.0b6rpt,Mafia!,1998
+2028,m.07024,Saving Private Ryan,1998
+2029,m.0gx0my,Billy's Hollywood Screen Kiss,1997
+2031,m.02z9wk7,$1,1971
+2032,m.02qx1v_,Barefoot Executive,1971
+2033,m.03dbyz,Black Cauldron,1985
+2034,m.01y4gy,Black Hole,1979
+2035,m.0clc0j,Blackbeard's Ghost,1968
+2036,m.040mw3,Blank Check,1994
+2037,m.06xdbl,Candleshoe,1977
+2038,m.05z1lf,Cat from Outer Space,1978
+2040,m.0dmln6,Computer Wore Tennis Shoes,1970
+2041,m.0970rb,Condorman,1981
+2042,m.08pfr9,D2: The Mighty Ducks,1994
+2043,m.012qf4,Darby O'Gill and the Little People,1959
+2044,m.0cjmr_,Devil and Max Devlin,1981
+2045,m.0dfy12,Far Off Place,1993
+2046,m.05k8wg,Flight of the Navigator,1986
+2047,m.045pfm,Gnome-Mobile,1967
+2048,m.01smnw,Great Mouse Detective,1986
+2049,m.01_4fw,Happiest Millionaire,1967
+2050,m.0729lc,Herbie Goes Bananas,1980
+2051,m.02k4tj,Herbie Goes to Monte Carlo,1977
+2052,m.06977k,Hocus Pocus,1993
+2053,m.03qflm,Honey,1992
+2054,m.04000h,Honey,1989
+2055,m.0fmhrt,Hot Lead and Cold Feet,1978
+2056,m.04g0nkv,In Search of the Castaways,1962
+2057,m.05zrfn5,Incredible Journey,1963
+2058,m.01510v,Negotiator,1998
+2059,m.06y611,Parent Trap,1998
+2060,m.037s0_,BASEketball,1998
+2061,m.0f__19,Full Tilt Boogie,1997
+2062,m.02vytc5,Governess,1998
+2063,m.01296pb6,Seventh Heaven,1997
+2064,m.0p65b,Roger & Me,1989
+2065,m.05jf85,Purple Rose of Cairo,1985
+2066,m.0j_wf,Out of the Past,1947
+2067,m.0glbqt,Doctor Zhivago,1965
+2068,m.02gd6x,Fanny and Alexander,1982
+2069,m.01k61l,Trip to Bountiful,1985
+2070,m.0sxhp,Tender Mercies,1983
+2071,m.03cffvv,And the Band Played On,1993
+2072,m.02v5nx,'burbs,1989
+2073,m.05jn1q,Fandango,1985
+2074,m.03gmsc,Night Porter,1974
+2075,m.0g_k0j,Mephisto,1981
+2076,m.0191n,Blue Velvet,1986
+2077,m.059wnx,Journey of Natty Gann,1985
+2078,m.032bm6,Jungle Book,1967
+2079,m.0kvcr9,Kidnapped,1960
+2080,m.01q3w7,Lady and the Tramp,1955
+2081,m.01ry_x,Little Mermaid,1989
+2082,m.02p775,Mighty Ducks,1992
+2083,m.04904n,Muppet Christmas Carol,1992
+2084,m.03s44q,Newsies,1992
+2085,m.018gvp,101 Dalmatians,1961
+2086,m.06_2q4,One Magic Christmas,1985
+2087,m.03wh35,Peter Pan,1953
+2088,m.04tz52,Popeye,1980
+2089,m.01jjb4,Rescuers Down Under,1990
+2090,m.01cm8w,Rescuers,1977
+2091,m.05r3nm,Return from Witch Mountain,1978
+2092,m.01_5ph,Return of Jafar,1993
+2093,m.02sdp4,Return to Oz,1985
+2094,m.0f61tk,Rocketeer,1991
+2095,m.08qzsc,Shaggy D.A.,1976
+2096,m.0711k3,Sleeping Beauty,1959
+2097,m.06w44l,Something Wicked This Way Comes,1983
+2098,m.02703xl,Son of Flubber,1963
+2099,m.0gldy,Song of the South,1946
+2100,m.01xvjb,Splash,1984
+2101,m.027n2fb,Squanto: A Warrior's Tale,1994
+2102,m.07bp0,Steamboat Willie,1940
+2103,m.03tflm,Tall Tale,1994
+2104,m.03c9fx6,Tex,1982
+2105,m.01tdmp,Tron,1982
+2106,m.051qyy,Swing Kids,1993
+2107,m.03tb_8,Halloween: H20,1998
+2108,m.04066p,L.A. Story,1991
+2109,m.018f9n,Jerk,1979
+2110,m.0q05k,Dead Men Don't Wear Plaid,1982
+2111,m.01cb7r,Man with Two Brains,1983
+2112,m.07w_vt,Grand Canyon,1991
+2113,m.05t05hj,Graveyard Shift,1990
+2114,m.08xxwl,Outsiders,1983
+2115,m.0k_9j,Indiana Jones and the Temple of Doom,1984
+2116,m.023cjg,Lord of the Rings,1978
+2117,m.03kp2l,Nineteen Eighty-Four,1984
+2118,m.02b0l5,Dead Zone,1983
+2119,m.02dtms,Maximum Overdrive,1986
+2120,m.04n45_2,Needful Things,1993
+2121,m.03bzrpp,Cujo,1983
+2122,m.0dk1cw,Children of the Corn,1984
+2123,m.02k7v1,All Dogs Go to Heaven,1989
+2124,m.09y18f,Addams Family,1991
+2125,m.03dwqf,Ever After: A Cinderella Story,1998
+2126,m.05b2dn,Snake Eyes,1998
+2127,m.0b69ppk,First Love,1997
+2128,m.0bxcw5,Safe Men,1998
+2129,m.0bggs5f,Saltmen of Tibet,1997
+2130,m.0qmfz,Atlantic City,1980
+2131,m.01gw6b,Autumn Sonata,1978
+2132,m.0286gm1,Who's Afraid of Virginia Woolf?,1966
+2133,m.02rqd_,Adventures in Babysitting,1987
+2134,m.01j_lt,Weird Science,1985
+2135,m.0p9pl,Doctor Dolittle,1967
+2136,m.02stxk,Nutty Professor,1963
+2137,m.09_gvh,Charlotte's Web,1973
+2138,m.03wh7z,Watership Down,1978
+2139,m.02pynz,Secret of NIMH,1982
+2140,m.01yz89,Dark Crystal,1982
+2141,m.03vp54,American Tail,1986
+2142,m.052_dz,American Tail: Fievel Goes West,1991
+2143,m.03q5db,Legend,1985
+2144,m.032xrj,Sixteen Candles,1984
+2145,m.02bg6w,Pretty in Pink,1986
+2146,m.02v_mx,St. Elmo's Fire,1985
+2147,m.053gml,Clan of the Cave Bear,1986
+2148,m.0bzpmy,House,1986
+2149,m.0d4v4z,House II: The Second Story,1987
+2150,m.01mrrd,Gods Must Be Crazy,1980
+2151,m.025sq9n,Gods Must Be Crazy II,1989
+2152,m.0cztlq,Air Bud: Golden Receiver,1998
+2153,m.02ywwy,Avengers,1998
+2154,m.07qzvf,How Stella Got Her Groove Back,1998
+2155,m.059mfz,Slums of Beverly Hills,1998
+2156,m.0b_jjr8,Best Man,1997
+2157,m.0gtx36r,Chambermaid on the Titanic,1998
+2158,m.04j36hf,Henry: Portrait of a Serial Killer,1996
+2159,m.049y31,Henry: Portrait of a Serial Killer,1990
+2160,m.02ptczs,Rosemary's Baby,1968
+2161,m.085ccd,NeverEnding Story,1984
+2162,m.08jblf,NeverEnding Story II: The Next Chapter,1990
+2163,m.01l73s,Attack of the Killer Tomatoes!,1980
+2164,m.08zqb6,Surf Nazis Must Die,1987
+2165,m.0gsvg9,Your Friends and Neighbors,1998
+2166,m.092nkx,Return to Paradise,1998
+2167,m.02djzj,Blade,1998
+2168,m.02q93xw,Dance with Me,1998
+2169,m.07yr62,Dead Man on Campus,1998
+2170,m.0625dx,Wrongfully Accused,1998
+2171,m.0c7z7q,Next Stop,1998
+2172,m.058jj8,Strike!,1998
+2173,m.04_c19,Navigator: A Mediaeval Odyssey,1988
+2174,m.01qxc7,Beetlejuice,1988
+2175,m.0crh6qm,D�j� Vu,1997
+2176,m.0k0rf,Rope,1948
+2177,m.05cj_j,Family Plot,1976
+2178,m.02jr6k,Frenzy,1972
+2179,m.01jr4j,Topaz,1969
+2180,m.05b2jj,Torn Curtain,1966
+2181,m.01n7qj,Marnie,1964
+2182,m.05d6xx,Wrong Man,1956
+2183,m.075cph,Man Who Knew Too Much,1956
+2184,m.02r_pp,Trouble with Harry,1955
+2185,m.045ddy,I Confess,1953
+2186,m.01mr29,Strangers on a Train,1951
+2187,m.01r7ny,Stage Fright,1950
+2188,m.032yft,54,1998
+2189,m.0bn6jw,I Married A Strange Person,1997
+2190,m.087kv6,Why Do Fools Fall In Love?,1998
+2191,m.09rjlzd,Merry War,1997
+2192,m.06c30v,See the Sea,1997
+2193,m.01hw5kk,Willow,1988
+2194,m.0b2v79,Untouchables,1987
+2195,m.02q3pj,Dirty Work,1998
+2196,m.0bjdfv,Knock Off,1998
+2197,m.0fp_cq,Firelight,1997
+2198,m.0bxbdy_,Modulations,1998
+2200,m.05ddtv,Under Capricorn,1949
+2201,m.01q65n,Paradine Case,1947
+2202,m.01n7sz,Lifeboat,1944
+2203,m.0k46n,Shadow of a Doubt,1943
+2204,m.05css_,Saboteur,1942
+2205,m.05c9y8,Mr. & Mrs. Smith,1941
+2206,m.0jz89,Suspicion,1941
+2207,m.093ptf,Jamaica Inn,1939
+2208,m.0287gvq,Lady Vanishes,1938
+2209,m.02k_h,Young and Innocent,1937
+2210,m.01kr6y,Sabotage,1936
+2211,m.01qxtc,Secret Agent,1936
+2212,m.075cp1,Man Who Knew Too Much,1934
+2214,m.05hh1p,Number Seventeen,1932
+2215,m.05hh3h,Rich and Strange,1932
+2219,m.05hh4b,Murder!,1930
+2221,m.04l1sb,Blackmail,1929
+2223,m.03y_wr,Farmer's Wife,1928
+2226,m.05gj61,Ring,1927
+2227,m.01q66w,Lodger,1926
+2231,m.03qbfb,Rounders,1998
+2232,m.0211pk,Cube,1997
+2234,m.0gyftr,Let's Talk About Sex,1998
+2236,m.070m8v,Simon Birch,1998
+2237,m.0c8nn5,Without Limits,1998
+2238,m.015q_8,Seven Beauties,1976
+2239,m.06qdr4,Swept Away,1975
+2240,m.082dqx,My Bodyguard,1980
+2241,m.01_41z,Class,1983
+2242,m.06bk1y,Grandview,1984
+2243,m.0yx1m,Broadcast News,1987
+2244,m.05lqjv,Allnighter,1987
+2245,m.0yyn5,Working Girl,1988
+2246,m.04jb_w7,Stars and Bars,1988
+2247,m.04x4p6,Married to the Mob,1988
+2248,m.02vwqb,Say Anything...,1989
+2249,m.04y1y1,My Blue Heaven,1990
+2250,m.03hhy4n,Men Don't Leave,1990
+2251,m.0hz6x03,Cabinet of Dr. Ramirez,1991
+2252,m.04dly_,Hero,1992
+2253,m.02g_hn,Toys,1992
+2255,m.026wc9d,Young Doctors in Love,1982
+2256,m.0bz8jz,Parasite,1982
+2257,m.027dhxw,No Small Affair,1984
+2259,m.08td4n,Blame It on Rio,1984
+2260,m.0fhrjv,Wisdom,1986
+2261,m.08wdns,One Crazy Summer,1986
+2262,m.03rl2l,About Last Night...,1986
+2263,m.03n4l3,Seventh Sign,1988
+2264,m.02qjkdz,We're No Angels,1989
+2265,m.0c6vx0,Nothing But Trouble,1991
+2266,m.06lks5,Butcher's Wife,1991
+2267,m.0278j53,Mortal Thoughts,1991
+2268,m.051zy_b,Few Good Men,1992
+2269,m.03jksy,Indecent Proposal,1993
+2271,m.04y2j6,Permanent Midnight,1998
+2272,m.04jw07,One True Thing,1998
+2273,m.02gpkt,Rush Hour,1998
+2275,m.04p5x8,Six-String Samurai,1998
+2276,m.0f9l58,Soldier's Daughter Never Cries,1998
+2278,m.015qnh,Ronin,1998
+2279,m.03rhhk,Urban Legend,1998
+2280,m.0fkn6k,Clay Pigeons,1998
+2281,m.057g9z,Monument Ave.,1998
+2282,m.05xy5f,Pecker,1998
+2283,m.04q1s3t,Sheltering Sky,1990
+2284,m.02jsh9,Bandit Queen,1994
+2285,m.02wk56,If....,1968
+2286,m.053rvr,Fiendish Plot of Dr. Fu Manchu,1980
+2287,m.02vt5c,Them!,1954
+2288,m.07k_8,Thing,1982
+2289,m.01_456,Player,1992
+2290,m.026vlj,Stardust Memories,1980
+2291,m.01s3vk,Edward Scissorhands,1990
+2292,m.07_1w_,Overnight Delivery,1996
+2293,m.02wvl5h,Shadrach,1998
+2294,m.01dc46,Antz,1998
+2295,m.09k9q2,Impostors,1998
+2296,m.0137wc,Night at the Roxbury,1998
+2297,m.032zq6,What Dreams May Come,1998
+2298,m.0bfvgz,Strangeland,1998
+2299,m.02q8p71,Battle of the Sexes,1959
+2300,m.0k2xc,Producers,1968
+2301,m.0291gk,History of the World: Part I,1981
+2302,m.01v_40,My Cousin Vinny,1992
+2303,m.0j_t1,Nashville,1975
+2304,m.0cxw2d,Love Is the Devil,1998
+2305,m.0b1dth,Slam,1998
+2306,m.09w7d0,Holy Man,1998
+2307,m.043nnrm,One Tough Cop,1998
+2309,m.064svq7,Inheritors,1998
+2310,m.02p2hxv,Mighty,1998
+2311,m.04gcyg,2010,1984
+2312,m.0sxnd,Children of a Lesser God,1986
+2313,m.0qmd5,Elephant Man,1980
+2314,m.033dbw,Beloved,1998
+2315,m.02ml14,Bride of Chucky,1998
+2316,m.0m9tw,Practical Magic,1998
+2317,m.0c_2_y,Alarmist,1997
+2318,m.03jr46,Happiness,1998
+2320,m.0h4lv,Apt Pupil,1998
+2321,m.029zqn,Pleasantville,1998
+2322,m.036g88,Soldier,1998
+2323,m.051q1k,Cruise,1998
+2324,m.011yrp,Life Is Beautiful,1997
+2325,m.023q01,Orgazmo,1997
+2326,m.0g5rsx1,Shattered Image,1998
+2327,m.02t4wl,Tales from the Darkside: The Movie,1990
+2328,m.03vyjr,Vampires,1998
+2329,m.0170z3,American History X,1998
+2330,m.027dbtt,Hands on a Hard Body,1996
+2331,m.0kvh49,Living Out Loud,1998
+2332,m.06ghth,Belly,1998
+2333,m.0170xl,Gods and Monsters,1998
+2334,m.06sfk6,Siege,1998
+2335,m.01x_hw,Waterboy,1998
+2336,m.011yr9,Elizabeth,1998
+2337,m.02s4l6,Velvet Goldmine,1998
+2338,m.030bcl,I Still Know What You Did Last Summer,1998
+2339,m.06rk_s,I'll Be Home For Christmas,1998
+2340,m.035bcl,Meet Joe Black,1998
+2341,m.04crrd7,Dancing at Lughnasa,1998
+2342,m.02w9m9,Hard Core Logo,1996
+2344,m.016kn6,Runaway Train,1985
+2345,m.06znvc9,Desert Bloom,1986
+2346,m.07ftpp,Stepford Wives,1975
+2347,m.0bf1fd,Pope of Greenwich Village,1984
+2348,m.01ndgk,Sid and Nancy,1986
+2349,m.016ks5,Mona Lisa,1986
+2350,m.0bngmw,Heart Condition,1990
+2351,m.05r237,Nights of Cabiria,1957
+2352,m.02nnnl,Big Chill,1983
+2353,m.032sl_,Enemy of the State,1998
+2354,m.056qgs,Rugrats Movie,1998
+2355,m.02c7k4,Bug's Life,1998
+2356,m.03m8y5,Celebrity,1998
+2357,m.04jvy0,Central Station,1998
+2358,m.03ffzz,Savior,1998
+2359,m.09z625,Waking Ned Devine,1998
+2360,m.05cjh_,Celebration,1998
+2361,m.01vg8l,Pink Flamingos,1972
+2362,m.03fx1,Glen or Glenda,1953
+2363,m.034__,Godzilla,1954
+2364,m.0350g,Godzilla,1984
+2365,m.034xh,King Kong vs. Godzilla,1962
+2366,m.048rn,King Kong,1933
+2367,m.02ktj7,King Kong,1976
+2368,m.08lzxj,King Kong Lives,1986
+2369,m.06fht6,Desperately Seeking Susan,1985
+2370,m.0d7wvs,Emerald Forest,1985
+2371,m.07h4yp,Fletch,1985
+2372,m.0dycv7,Fletch Lives,1989
+2373,m.08ck1h,Red Sonja,1985
+2374,m.09hfyy,Gung Ho,1986
+2375,m.05bvl9,Money Pit,1986
+2376,m.02sg5v,View to a Kill,1985
+2377,m.0583hr,Lifeforce,1985
+2378,m.0fm5t9,Police Academy,1984
+2379,m.046kxx,Police Academy 2: Their First Assignment,1985
+2380,m.09hjcp,Police Academy 3: Back in Training,1986
+2381,m.0c51by,Police Academy 4: Citizens on Patrol,1987
+2382,m.05mvpy,Police Academy 5: Assignment: Miami Beach,1988
+2383,m.0fm5xf,Police Academy 6: City Under Siege,1989
+2384,m.02rfs1,Babe: Pig in the City,1998
+2385,m.056hzw,Home Fries,1998
+2386,m.0h0r0b,Jerry Springer: Ringmaster,1998
+2387,m.05dss7,Very Bad Things,1998
+2388,m.019237,Steam: The Turkish Bath,1997
+2389,m.0c9t0y,Psycho,1998
+2390,m.06tydt,Little Voice,1998
+2391,m.0fy34l,Simple Plan,1998
+2392,m.06s5ct,Jack Frost,1998
+2393,m.014nq4,Star Trek: Insurrection,1998
+2394,m.02ctc6,Prince of Egypt,1998
+2395,m.024lt6,Rushmore,1998
+2396,m.0m313,Shakespeare in Love,1998
+2397,m.05mrntz,Mass Appeal,1984
+2398,m.0ktx_,Miracle on 34th Street,1947
+2399,m.079xmk,Santa Claus: The Movie,1985
+2400,m.02qmn45,Prancer,1989
+2401,m.01l310,Pale Rider,1985
+2402,m.02scbv,Rambo: First Blood Part II,1985
+2403,m.03kfz0,First Blood,1982
+2404,m.04cbbz,Rambo III,1988
+2405,m.0884wb,Jewel of the Nile,1985
+2406,m.02rxf6,Romancing the Stone,1984
+2407,m.03r58n,Cocoon,1985
+2408,m.03r591,Cocoon: The Return,1988
+2409,m.0135_9,Rocky II,1979
+2410,m.013vbq,Rocky III,1982
+2411,m.0q9sg,Rocky IV,1985
+2412,m.0140g4,Rocky V,1990
+2413,m.0hqdd,Clue,1985
+2414,m.04rg8v,Young Sherlock Holmes,1985
+2415,m.03qndfm,Violets Are Blue...,1986
+2416,m.0414j6,Back to School,1986
+2417,m.06hr1m,Heartburn,1986
+2418,m.05l7bl,Nothing in Common,1986
+2419,m.0blms6,Extremities,1986
+2420,m.0mmbb,Karate Kid,1984
+2421,m.046kzn,Karate Kid,1986
+2422,m.075ztz,Karate Kid III,1989
+2423,m.048f00,Christmas Vacation,1989
+2424,m.014zwb,You've Got Mail,1998
+2425,m.09rt72,General,1998
+2426,m.06cx3t,Theory of Flight,1998
+2427,m.011ysn,Thin Red Line,1998
+2428,m.01svry,Faculty,1998
+2429,m.0fr63l,Mighty Joe Young,1998
+2430,m.05hbry,Mighty Joe Young,1949
+2431,m.04kkz8,Patch Adams,1998
+2432,m.05j6kk,Stepmom,1998
+2433,m.04x4vj,Civil Action,1998
+2434,m.026g2gb,Down in the Delta,1998
+2435,m.03hj492,Hurlyburly,1998
+2436,m.03sd_5,Tea with Mussolini,1999
+2437,m.04f_y7,Wilde,1997
+2438,m.0fv_7p,Outside Ozona,1998
+2439,m.0170yd,Affliction,1997
+2440,m.098fq7,Another Day in Paradise,1998
+2441,m.02w97lh,Hi-Lo Country,1998
+2442,m.02chhq,Hilary and Jackie,1998
+2443,m.03qcvl,Playing by Heart,1998
+2444,m.076x850,24 7: Twenty Four Seven,1997
+2445,m.079cts,At First Sight,1999
+2446,m.08fckt,In Dreams,1999
+2447,m.05nxmf,Varsity Blues,1999
+2448,m.093_k0,Virus,1999
+2449,m.0c3w0sx,Garbage Pail Kids Movie,1987
+2450,m.0g9yrw,Howard the Duck,1986
+2451,m.03yztj,Gate,1987
+2452,m.03gtdqx,Gate II: Trespassers,1990
+2453,m.06syb7,Boy Who Could Fly,1986
+2454,m.02p8gn,Fly,1958
+2455,m.02bqxb,Fly,1986
+2456,m.03383d,Fly II,1989
+2457,m.06j0g0,Running Scared,1986
+2458,m.03gln9,Armed and Dangerous,1986
+2459,m.07bw7,Texas Chainsaw Massacre,1974
+2460,m.023hhp,Texas Chainsaw Massacre 2,1986
+2461,m.07rhl9,Leatherface: Texas Chainsaw Massacre III,1990
+2462,m.080bbt,Return of the Texas Chainsaw Massacre,1994
+2463,m.032cgb,Ruthless People,1986
+2464,m.0kv0l0,Trick or Treat,1986
+2465,m.06z5rr,Deadly Friend,1986
+2466,m.03d2q5g,Belizaire the Cajun,1986
+2467,m.0f4m2z,Name of the Rose,1986
+2468,m.088jb3,Jumpin' Jack Flash,1986
+2469,m.01kp5s,Peggy Sue Got Married,1986
+2470,m.01wzyq,Crocodile Dundee,1986
+2471,m.047ndx,Crocodile Dundee II,1988
+2472,m.07bxql,Tough Guys,1986
+2473,m.06pgf2,Soul Man,1986
+2474,m.016kpn,Color of Money,1986
+2475,m.02p4c1j,52 Pick-Up,1986
+2476,m.05fc58,Heartbreak Ridge,1986
+2477,m.0dxmhp,Firewalker,1986
+2478,m.03nnzk,Three Amigos!,1986
+2479,m.02vwt8v,Gloria,1999
+2480,m.04j32rp,Dry Cleaning,1997
+2481,m.050x9r,My Name Is Joe,1998
+2482,m.07c29b,Still Crazy,1998
+2483,m.07zc2f,Day of the Beast,1995
+2485,m.041s4z,She's All That,1999
+2486,m.09v9jb_,24-hour Woman,1998
+2487,m.05mfhj,Blood,1998
+2488,m.025gb_,Peeping Tom,1960
+2490,m.0639hk,Payback,1999
+2491,m.03ynx1,Simply Irresistible,1999
+2492,m.04yb7k4,20 Dates,1998
+2493,m.05q8hrw,Harmonists,1997
+2494,m.07q36g,Last Days,1998
+2495,m.073qxn,Fantastic Planet,1973
+2496,m.06w5c6,Blast from the Past,1999
+2497,m.06n4_l,Message in a Bottle,1999
+2498,m.026hpg_,My Favorite Martian,1999
+2499,m.051rk5c,God Said 'Ha!',1998
+2500,m.09n0nb,Jawbreaker,1999
+2501,m.046vs6,October Sky,1999
+2502,m.0nrnk,Office Space,1999
+2503,m.02vqgl4,Apple,1998
+2504,m.03258s,200 Cigarettes,1999
+2505,m.04wzkz,8MM,1999
+2506,m.0gynbw,Other Sister,1999
+2507,m.08zjv6,Breakfast of Champions,1999
+2509,m.0flycm,Eight Days a Week,1997
+2511,m.09qpxm,Long Goodbye,1973
+2512,m.0dndpx,Ballad of Narayama,1982
+2513,m.0c_194,Pet Sematary,1989
+2514,m.08jh6n,Pet Sematary II,1992
+2515,m.084wv5,Children of the Corn II: The Final Sacrifice,1993
+2516,m.0855gb,Children of the Corn III,1994
+2517,m.06k4hg,Christine,1983
+2518,m.02mh4b,Night Shift,1982
+2519,m.02ycfn,House on Haunted Hill,1958
+2520,m.0pd57,Airport,1970
+2521,m.06r71t,Airport 1975,1974
+2522,m.043wvb,Airport '77,1977
+2523,m.069ttn,Rollercoaster,1977
+2524,m.0ptxj,Towering Inferno,1974
+2525,m.0cwjsr,Alligator,1980
+2526,m.03_sd3,Meteor,1979
+2527,m.02cp5f,Westworld,1973
+2528,m.0fb2ky,Logan's Run,1976
+2529,m.0k2r1,Planet of the Apes,1968
+2530,m.013szf,Beneath the Planet of the Apes,1970
+2531,m.034rv2,Battle for the Planet of the Apes,1973
+2532,m.0308n2,Conquest of the Planet of the Apes,1972
+2533,m.01s7vd,Escape from the Planet of the Apes,1971
+2534,m.09gffnn,Avalanche,1978
+2535,m.02kg37,Earthquake,1974
+2536,m.07bmgl,Concorde: Airport '79,1979
+2537,m.08b79b,Beyond the Poseidon Adventure,1979
+2538,m.04_17wp,Dancemaker,1998
+2539,m.03s5lz,Analyze This,1999
+2540,m.02lw11,Corruptor,1999
+2541,m.0n6ds,Cruel Intentions,1999
+2542,m.01dvbd,Lock,1998
+2543,m.0bvh0q,Six Ways to Sunday,1997
+2544,m.080dh92,School of Flesh,1998
+2545,m.0281qyl,Relax... It's Just Sex,1998
+2546,m.02z227h,Deep End of the Ocean,1999
+2548,m.072w70,Rage: Carrie 2,1999
+2549,m.034g6c,Wing Commander,1999
+2550,m.03srb9,Haunting,1963
+2551,m.03f7xg,Dead Ringers,1988
+2552,m.040044,My Boyfriend's Back,1993
+2553,m.05r1cs,Village of the Damned,1960
+2554,m.0d2st0,Children of the Damned,1963
+2555,m.073r4f,Baby Geniuses,1999
+2556,m.076tx2l,Telling You,1998
+2557,m.0962k_,I Stand Alone,1998
+2558,m.0b21hk,Forces of Nature,1999
+2559,m.0grkhm,King and I,1999
+2560,m.03kmz8,Ravenous,1999
+2561,m.094zrc,True Crime,1999
+2562,m.05h2d6d,Bandits,1997
+2563,m.08fsgq,Beauty,1998
+2565,m.0bcndz,King and I,1956
+2566,m.051q72,Doug's 1st Movie,1999
+2567,m.02_1sj,EDtv,1999
+2568,m.08yf3q,Mod Squad,1999
+2569,m.051r934,Among Giants,1998
+2570,m.0337zb,Walk on the Moon,1999
+2571,m.07cz2,Matrix,1999
+2572,m.023m3f,10 Things I Hate About You,1999
+2573,m.0dvlrx,Tango,1998
+2574,m.0djg6j,Out-of-Towners,1999
+2575,m.0989xw,Dreamlife of Angels,1998
+2576,m.0b_tyz6,Love,1996
+2577,m.042vk0,Metroland,1997
+2578,m.04j1mz3,Sticky Fingers of Time,1997
+2579,m.047gphb,Following,1998
+2580,m.02slnt,Go,1999
+2581,m.06ksnc,Never Been Kissed,1999
+2582,m.0nhf92v,Twin Dragons,1992
+2583,m.0bpbhm,Cookie's Fortune,1999
+2584,m.05s_rg0,Foolish,1999
+2585,m.04nyc_,Lovers of the Arctic Circle,1998
+2586,m.03cdp4n,Goodbye,1999
+2587,m.05mc0v,Life,1999
+2589,m.0d_z8w,Friends & Lovers,1999
+2590,m.0dtp46,Hideous Kinky,1998
+2591,m.0bggk69,Jeanne and the Perfect Guy,1998
+2592,m.04j1j3y,Joyriders,1999
+2593,m.08p939,Monster,1994
+2594,m.032940,Open Your Eyes,1997
+2596,m.01915h,SLC Punk!,1998
+2597,m.08m7pl,Lost & Found,1999
+2598,m.04z92b,Pushing Tin,1999
+2599,m.032_wv,Election,1999
+2600,m.01r92q,eXistenZ,1999
+2602,m.06dw0d,Mighty Peking Man,1977
+2605,m.01pgrh,Entrapment,1999
+2606,m.081tgq,Idle Hands,1999
+2607,m.07whr3,Get Real,1998
+2608,m.0crrlnn,Heaven,1998
+2609,m.027vjt1,King of Masks,1996
+2610,m.06hzfh,Three Seasons,1999
+2611,m.0fwhxl,Winslow Boy,1998
+2612,m.0cy__l,Mildred Pierce,1945
+2613,m.077_8t,Night of the Comet,1984
+2614,m.0b2fqf,Chopping Mall,1986
+2615,m.07d30r,My Science Project,1985
+2616,m.035_2h,Dick Tracy,1990
+2617,m.01ln5z,Mummy,1999
+2618,m.0740p5,Castle,1997
+2619,m.04j2jd4,Mascara,1999
+2620,m.0404xj0,This Is My Father,1998
+2621,m.08chpb,Xiu Xiu: The Sent-Down Girl,1998
+2622,m.0fzm0g,Midsummer Night's Dream,1999
+2623,m.0fvxq6,Trippin',1999
+2624,m.027m1_,After Life,1998
+2625,m.0956wg,Black Mask,1996
+2626,m.0dlq2w,Edge of Seventeen,1998
+2627,m.03h0vs1,Endurance,1998
+2628,m.0ddt_,Star Wars: Episode I - The Phantom Menace,1999
+2629,m.027l76k,Love Letter,1999
+2630,m.0czzsg,Besieged,1998
+2631,m.05pw5x3,Frogs for Snakes,1998
+2632,m.07qdbp,Saragossa Manuscript,1965
+2633,m.01ln7k,Mummy,1932
+2634,m.01ln7_,Mummy,1959
+2635,m.09jb0t,Mummy's Curse,1944
+2636,m.09h37b,Mummy's Ghost,1944
+2637,m.09g8dv,Mummy's Hand,1940
+2638,m.09gkpz,Mummy's Tomb,1942
+2639,m.06krf3,Mommie Dearest,1981
+2640,m.01_mdl,Superman,1978
+2641,m.042fgh,Superman II,1980
+2642,m.042g97,Superman III,1983
+2643,m.024mxd,Superman IV: The Quest for Peace,1987
+2644,m.04193s,Dracula,1931
+2646,m.094ff_,House of Dracula,1945
+2647,m.094f4n,House of Frankenstein,1944
+2648,m.0jqzt,Frankenstein,1931
+2649,m.06vwp4,Son of Frankenstein,1939
+2650,m.094c_h,Ghost of Frankenstein,1942
+2651,m.094d7k,Frankenstein Meets the Wolf Man,1943
+2652,m.05wq1m,Curse of Frankenstein,1957
+2653,m.094dnx,Son of Dracula,1943
+2654,m.03qpr2,Wolf Man,1941
+2655,m.08b9wj,Howling II: Your Sister Is a Werewolf,1985
+2656,m.0cnckg,Tarantula,1955
+2657,m.06cgf,Rocky Horror Picture Show,1975
+2658,m.06z50f,Flying Saucer,1950
+2659,m.07qhwl,It Came from Hollywood,1982
+2660,m.0k4lt,Thing From Another World,1951
+2661,m.06dskb,It Came from Outer Space,1953
+2662,m.02mmvd,War of the Worlds,1953
+2663,m.03kws6,It Came from Beneath the Sea,1955
+2664,m.0jvx7,Invasion of the Body Snatchers,1956
+2665,m.06j3vq,Earth Vs. the Flying Saucers,1956
+2666,m.057trs,It Conquered the World,1956
+2667,m.08_93g,Mole People,1956
+2668,m.0ff0ht,Swamp Thing,1982
+2669,m.03w54r,Pork Chop Hill,1959
+2670,m.0g5w26f,Run Silent,1958
+2671,m.01cz7r,Notting Hill,1999
+2672,m.051n5m,Thirteenth Floor,1999
+2673,m.0c1xxx,Eternity and a Day,1998
+2674,m.02rdlrb,Loss of Sexual Innocence,1999
+2675,m.04gqtq9,Twice Upon a Yesterday,1998
+2676,m.0cl17q,Instinct,1999
+2677,m.01nkyj,Buena Vista Social Club,1999
+2678,m.0bx8l5,Desert Blue,1999
+2679,m.0g_n1q,Finding North,1999
+2681,m.074dbt,Free Enterprise,1998
+2682,m.08l918,Limbo,1999
+2683,m.01k1k4,Austin Powers: The Spy Who Shagged Me,1999
+2685,m.04gtc1l,Red Dwarf,1998
+2686,m.01ffx4,Red Violin,1998
+2687,m.05sxr_,Tarzan,1999
+2688,m.0779m1,General's Daughter,1999
+2689,m.04yfwwz,Get Bruce,1999
+2690,m.05dptj,Ideal Husband,1999
+2691,m.05zx9_,Legend of 1900,1998
+2692,m.02chjf,Run Lola Run,1998
+2693,m.07nhm,Trekkies,1997
+2694,m.02hxhz,Big Daddy,1999
+2695,m.08x9kx,Boys,1997
+2696,m.07s34m,Dinner Game,1998
+2697,m.02pptkb,My Son the Fanatic,1998
+2699,m.01wgmz,Arachnophobia,1990
+2700,m.01hvjx,South Park: Bigger,1999
+2701,m.01kff7,Wild Wild West,1999
+2702,m.03sxd2,Summer of Sam,1999
+2703,m.03wf8f9,Broken Vessels,1998
+2704,m.05_lhx,Lovers on the Bridge,1991
+2705,m.04jclq5,Late August,1998
+2706,m.07pd_j,American Pie,1999
+2707,m.06ys2z,Arlington Road,1999
+2708,m.0df3v_,Autumn Tale,1998
+2709,m.05353r,Muppets From Space,1999
+2710,m.07byq,Blair Witch Project,1999
+2711,m.027ht9h,My Life So Far,1999
+2712,m.02qcr,Eyes Wide Shut,1999
+2713,m.02tcrf,Lake Placid,1999
+2714,m.08r27j,Wood,1999
+2715,m.02qyt90,Velocity of Gary,1998
+2716,m.01d2v1,Ghostbusters,1984
+2717,m.02x8fs,Ghostbusters II,1989
+2718,m.03kck3,Drop Dead Gorgeous,1999
+2719,m.03t79f,Haunting,1999
+2720,m.0bnhmx,Inspector Gadget,1999
+2721,m.01w_x0,Trick,1999
+2722,m.044sv0,Deep Blue Sea,1999
+2723,m.01r6s5,Mystery Men,1999
+2724,m.065f9t,Runaway Bride,1999
+2725,m.0g_hb0,Twin Falls Idaho,1999
+2726,m.01pr90,Killing,1956
+2727,m.046639,Killer's Kiss,1955
+2728,m.0168ls,Spartacus,1960
+2729,m.055b0h,Lolita,1962
+2730,m.01c9d,Barry Lyndon,1975
+2731,m.01cqks,400 Blows,1959
+2732,m.06r3yf,Jules and Jim,1961
+2733,m.0mf0h,Vibes,1988
+2734,m.0bvrpjp,Mosquito Coast,1986
+2735,m.06m7yq,Golden Child,1986
+2736,m.08yv3gz,Brighton Beach Memoirs,1986
+2737,m.02w5j4m,Assassination,1987
+2738,m.027965n,Crimes of the Heart,1986
+2739,m.08xvpn,Color Purple,1985
+2741,m.0bdxf1,No Mercy,1986
+2743,m.0bvmrfm,Native Son,1986
+2744,m.03ccp5z,Otello,1986
+2745,m.02ll45,Mission,1986
+2746,m.09cxm4,Little Shop of Horrors,1986
+2747,m.01w1ll,Little Shop of Horrors,1960
+2748,m.03ws3t,Allan Quartermain and the Lost City of Gold,1987
+2749,m.01kp4q,Morning After,1986
+2750,m.07bxqz,Radio Days,1987
+2751,m.03ql24g,From the Hip,1987
+2752,m.060rs5,Outrageous Fortune,1987
+2753,m.09zkzj,Bedroom Window,1987
+2754,m.0bmdzkk,Deadtime Stories,1987
+2755,m.06gtp2,Light of Day,1987
+2756,m.0999cx,Wanted: Dead or Alive,1987
+2757,m.01k5yv,Frances,1982
+2758,m.08p5l7,Plenty,1985
+2759,m.04znzp,Dick,1999
+2760,m.0bvmpy9,Gambler,1997
+2761,m.03g7m3,Iron Giant,1999
+2762,m.07j94,Sixth Sense,1999
+2763,m.076y36,Thomas Crown Affair,1999
+2764,m.076y2d,Thomas Crown Affair,1968
+2765,m.0cw7q6,Acid House,1998
+2766,m.0bxq_w,Adventures of Sebastian Cole,1998
+2767,m.03m4qxx,Illuminata,1998
+2768,m.026vp49,Stiff Upper Lips,1998
+2769,m.02qmsr,Yards,1999
+2770,m.04_73f,Bowfinger,1999
+2771,m.07_by1,Brokedown Palace,1999
+2772,m.05bmcq,Detroit Rock City,1999
+2773,m.027r7fn,Alice and Martin,1998
+2774,m.029w99,Better Than Chocolate,1999
+2775,m.06sq76,Head On,1998
+2776,m.080986x,Marcello Mastroianni: I Remember Yes,1997
+2777,m.0c6wjv,Cobra,1925
+2778,m.0dpk3v,Never Talk to Strangers,1995
+2779,m.0p_rk,Heaven Can Wait,1978
+2780,m.02ktq2,Raven,1963
+2781,m.071j0p,Tingler,1959
+2782,m.0dl5mr,Pit and the Pendulum,1961
+2783,m.05w1b3,Tomb of Ligeia,1965
+2784,m.0bpf1y,Masque of the Red Death,1964
+2785,m.08tqnz,Tales of Terror,1962
+2786,m.06hcyc,Haunted Honeymoon,1986
+2787,m.02mgcm,Cat's Eye,1985
+2788,m.02sxmw,And Now for Something Completely Different,1971
+2789,m.06z8hq,Damien: Omen II,1978
+2790,m.07gk72,Final Conflict,1981
+2791,m.0ckt6,Airplane!,1980
+2792,m.05v0nd,Airplane II: The Sequel,1982
+2793,m.0372qf,American Werewolf in Paris,1997
+2794,m.06116h,European Vacation,1985
+2795,m.02k325,Vacation,1983
+2796,m.0gw2qn,Funny Farm,1988
+2797,m.016ky6,Big,1988
+2798,m.01sc3m,Problem Child,1990
+2799,m.032xjj,Problem Child 2,1991
+2800,m.09fkxv,Little Nemo: Adventures in Slumberland,1992
+2801,m.05p09dd,Oscar and Lucinda,1997
+2802,m.03tb__,Tequila Sunrise,1988
+2803,m.0d3rz2,Pelican Brief,1993
+2804,m.03r6_w,Christmas Story,1983
+2805,m.040d3x,Mickey Blue Eyes,1999
+2806,m.03bxbk,Teaching Mrs. Tingle,1999
+2807,m.0c5skt,Universal Soldier: The Return,1999
+2808,m.0b84rz,Universal Soldier,1992
+2809,m.07qbrc,Love Stinks,1999
+2810,m.01rlrt,Perfect Blue,1997
+2811,m.026mrl2,With Friends Like These...,1998
+2812,m.08tw1f,In Too Deep,1999
+2813,m.02qr8lh,Source,1999
+2814,m.06gn95,Bat,1959
+2815,m.01404w,Iron Eagle,1986
+2816,m.0gy3fy,Iron Eagle II,1988
+2817,m.0d9gml,Aces: Iron Eagle III,1992
+2818,m.03c8yks,Iron Eagle IV,1995
+2819,m.02dcrt,Three Days of the Condor,1975
+2820,m.0h2jsjz,Hamlet,1964
+2821,m.068wqw,Male and Female,1919
+2822,m.06m4p7,Medicine Man,1992
+2823,m.05b54l2,Spiders,1919
+2824,m.06qf8d,On the Ropes,1999
+2825,m.0gkrkhg,Rosie,1998
+2826,m.0mcrb,13th Warrior,1999
+2827,m.06v_2g,Astronaut's Wife,1999
+2828,m.0crhxl,Dudley Do-Right,1999
+2829,m.0blfq5,Muse,1999
+2830,m.0cdz6j,Cabaret Balkan,1998
+2831,m.04j2n3w,Dog of Flanders,1999
+2833,m.03czr72,Lucie Aubrac,1997
+2834,m.050k5z,Very Thought of You,1998
+2835,m.03czjgz,Chill Factor,1999
+2836,m.0gp_gh,Outside Providence,1999
+2837,m.07_czc,Bedrooms & Hallways,1998
+2839,m.052np3s,West Beirut,1998
+2840,m.04cyvf,Stigmata,1999
+2841,m.05cx06,Stir of Echoes,1999
+2842,m.0b4rz4,Best Laid Plans,1999
+2843,m.03_wh5,Black Cat,1998
+2844,m.04yccl,Minus Man,1999
+2846,m.02hm13,Adventures of Milo and Otis,1986
+2847,m.064_zc,Only Angels Have Wings,1939
+2848,m.06hhqq,Othello,1952
+2849,m.03c901s,Queens Logic,1991
+2850,m.09s75k,Public Access,1993
+2852,m.0sxk3,Soldier's Story,1984
+2853,m.06dt2r,Communion,1977
+2854,m.04j34lf,Don't Look in the Basement!,1973
+2855,m.0705k1,Nightmares,1983
+2856,m.0brjnd,I Saw What You Did,1965
+2857,m.07bzz7,Yellow Submarine,1968
+2858,m.0c0zq,American Beauty,1999
+2859,m.0545nh,Stop Making Sense,1984
+2860,m.034m7p,Blue Streak,1999
+2861,m.04kkxx,For Love of the Game,1999
+2862,m.01k8d3,Caligula,1980
+2863,m.01kyvd,Hard Day's Night,1964
+2864,m.0b6jfrc,Splendor,1999
+2865,m.0frkf7,Sugar Town,1999
+2866,m.015wcx,Buddy Holly Story,1978
+2867,m.04857z,Fright Night,1985
+2868,m.06vnxk,Fright Night Part II,1989
+2869,m.0by_rm,Separation,1994
+2870,m.026s_ky,Barefoot in the Park,1967
+2871,m.0pttd,Deliverance,1972
+2872,m.01l63z,Excalibur,1981
+2873,m.07m9qh,Lulu on the Bridge,1998
+2874,m.02z5kmx,Pajama Game,1957
+2875,m.03w2y6,Sommersby,1993
+2876,m.09f38n,Thumbelina,1994
+2877,m.04jpk2,Tommy,1975
+2878,m.0bh5bm,Hell Night,1981
+2879,m.02_s7x,Operation Condor,1990
+2881,m.03dyd7,Double Jeopardy,1999
+2882,m.09mjxy,Jakob the Liar,1999
+2883,m.0c57yj,Mumford,1999
+2884,m.03960s,Dog Park,1998
+2885,m.03gr2n,Guinevere,1999
+2886,m.01fx16,Adventures of Elmo in Grouchland,1999
+2887,m.0942v9,Simon Sez,1999
+2888,m.09gg0t,Drive Me Crazy,1999
+2889,m.085480,Mystery,1999
+2890,m.01bb9r,Three Kings,1999
+2891,m.0818hw,Happy,1999
+2892,m.02wjqm,New Rose Hotel,1998
+2893,m.0bd3g7,Plunkett & MaCleane,1999
+2894,m.02r2px,Romance,1999
+2895,m.03z9g0,Napoleon and Samantha,1972
+2896,m.03by_1q,Alvarez Kelly,1966
+2897,m.0b1n1y,And the Ship Sails On,1984
+2898,m.0d_ng1,Dark Half,1993
+2899,m.0dy60p,Gulliver's Travels,1939
+2900,m.09m6vx,Monkey Shines,1988
+2901,m.05y5nf,Phantasm,1979
+2902,m.06lyg6,Psycho II,1983
+2903,m.06lyjp,Psycho III,1986
+2904,m.07n06p,Rain,1932
+2905,m.018lr7,Sanjuro,1962
+2906,m.080j6g3,Random Hearts,1999
+2907,m.05v6jy,Superstar,1999
+2908,m.02nczh,Boys Don't Cry,1999
+2909,m.0crrmq8,Five Wives,1998
+2911,m.02x5ypf,Grandfather,1998
+2912,m.02gvr_,Limey,1999
+2913,m.0f0sjn,Mating Habits of the Earthbound Human,1998
+2914,m.0bdj76,Molly,1999
+2915,m.02q4rf,Risky Business,1983
+2916,m.0fd4x,Total Recall,1990
+2917,m.02n46r,Body Heat,1981
+2918,m.0m491,Ferris Bueller's Day Off,1986
+2919,m.07hvh,Year of Living Dangerously,1982
+2920,m.038km6,Children of Paradise,1945
+2921,m.04vgnr,High Plains Drifter,1972
+2922,m.08w0v1,Hang 'em High,1967
+2923,m.06k4_r,Citizen's Band,1977
+2924,m.028hy8,Drunken Master,1979
+2925,m.02qdqrf,Conformist,1970
+2926,m.05gqsy,Hairspray,1988
+2927,m.0j88t,Brief Encounter,1946
+2928,m.0fj_y_,Razor's Edge,1984
+2929,m.0c9k8,Reds,1981
+2930,m.051lysz,Return with Honor,1998
+2931,m.0b7tzm,Time of the Gypsies,1989
+2932,m.0294zg,Days of Heaven,1978
+2933,m.027b467,Fire Within,1963
+2934,m.02x69fr,Love Bewitched,1986
+2935,m.0jyjs,Lady Eve,1941
+2936,m.0jqb8,Sullivan's Travels,1942
+2937,m.06zjmn,Palm Beach Story,1942
+2938,m.05b2knq,Man Facing Southeast,1986
+2939,m.05j9qr,Niagara,1953
+2940,m.05md6s,Gilda,1946
+2941,m.02q_4ph,South Pacific,1958
+2942,m.016kz1,Flashdance,1983
+2943,m.03b1zr,Indochine,1992
+2944,m.01sy99,Dirty Dozen,1967
+2945,m.05s_nq9,Mike's Murder,1984
+2946,m.0b45_s,Help!,1965
+2947,m.01kf5lf,Goldfinger,1964
+2948,m.025twgt,From Russia with Love,1963
+2949,m.025twgf,Dr. No,1962
+2950,m.04984j,Blue Lagoon,1980
+2951,m.028zh1,Fistful of Dollars,1964
+2952,m.02ydbz,Hard 8,1996
+2953,m.01r35n,Home Alone 2: Lost in New York,1992
+2955,m.04j033s,Penitentiary II,1982
+2956,m.0kv17w,Someone to Watch Over Me,1987
+2959,m.03yvf2,Fight Club,1999
+2960,m.0276mc7,Beefcake,1999
+2961,m.0ck_0f,Story of Us,1999
+2962,m.02845pf,Fever Pitch,1997
+2963,m.04n2c6w,Joe the King,1999
+2964,m.04cwd9,Julien Donkey-Boy,1999
+2965,m.02pkfmy,Omega Code,1999
+2966,m.07q1m,Straight Story,1999
+2967,m.0kvd8n,Bad Seed,1956
+2968,m.014nbs,Time Bandits,1981
+2969,m.01fd7j,Man and a Woman,1966
+2970,m.028xg0,Fitzcarraldo,1982
+2971,m.0hv1t,All That Jazz,1979
+2972,m.05z5cp,Red Sorghum,1987
+2973,m.04smdd,Crimes and Misdemeanors,1989
+2974,m.02r07nx,Bats,1999
+2975,m.088s3s,Best Man,1999
+2976,m.01yzjg,Bringing Out the Dead,1999
+2977,m.0dpl44,Crazy in Alabama,1999
+2978,m.0125yp,Three to Tango,1999
+2979,m.02ps1dm,Body Shots,1999
+2981,m.027wh9x,Brother,1975
+2982,m.03v594,Guardian,1990
+2983,m.0286hvy,Ipcress File,1965
+2984,m.095b9h,On Any Sunday,1971
+2985,m.0299hs,Robocop,1987
+2986,m.04t8wq,Robocop 2,1990
+2987,m.0k2sk,Who Framed Roger Rabbit?,1988
+2988,m.04gp_7,Melvin and Howard,1980
+2989,m.0g5pv3,For Your Eyes Only,1981
+2990,m.029v40,Licence to Kill,1989
+2991,m.0g5pvv,Live and Let Die,1973
+2992,m.0dv32x,Rawhead Rex,1986
+2993,m.0fsw_7,Thunderball,1965
+2994,m.03h0zrr,City,1998
+2995,m.03sfjd,House on Haunted Hill,1999
+2996,m.032zcf,Music of the Heart,1999
+2997,m.01z452,Being John Malkovich,1999
+2998,m.04jm7j0,Dreaming of Joseph Lees,1998
+2999,m.087dlb,Man of the Century,1999
+3000,m.0652f,Princess Mononoke,1997
+3002,m.07cgh4,My Best Fiend,1999
+3003,m.0h30cr,Train of Life,1998
+3004,m.09z8d1,Bachelor,1999
+3005,m.06fwns,Bone Collector,1999
+3006,m.011yth,Insider,1999
+3007,m.015qcv,American Movie,1999
+3008,m.06htqm,Last Night,1998
+3010,m.05p258,Rosetta,1999
+3011,m.01fwzk,They Shoot Horses,1969
+3012,m.0289xnv,Battling Butler,1926
+3013,m.04tqc2,Bride of Re-Animator,1990
+3014,m.06hcv8,Bustin' Loose,1981
+3015,m.05xpx9,Coma,1978
+3016,m.02mrcx,Creepshow,1982
+3017,m.06h9zj,Creepshow 2,1987
+3018,m.048s88,Re-Animator,1985
+3019,m.01qncf,Drugstore Cowboy,1989
+3020,m.0pj5t,Falling Down,1993
+3021,m.0by5bf,Funhouse,1981
+3022,m.0hwt7,General,1927
+3024,m.08vx93,Piranha,1978
+3025,m.03ynpv0,Rough Night in Jericho,1967
+3026,m.02vkzc6,Slaughterhouse,1987
+3028,m.027yntx,Taming of the Shrew,1967
+3029,m.07_gdn,Nighthawks,1981
+3030,m.01tch8,Yojimbo,1961
+3031,m.04rrvs,Repossessed,1990
+3032,m.01xwxk,Omega Man,1971
+3033,m.0j_nw,Spaceballs,1987
+3034,m.03wh1s,Robin Hood,1973
+3035,m.03qlxf5,Mister Roberts,1955
+3036,m.02vp1f_,Quest for Fire,1981
+3037,m.0fpj3cw,Little Big Man,1970
+3038,m.06fjkp,Face in the Crowd,1957
+3039,m.02l11z,Trading Places,1983
+3040,m.0543j5,Meatballs,1979
+3041,m.07wbmd,Meatballs Part II,1984
+3042,m.0h4zrk,Meatballs III,1987
+3043,m.0h4zz2,Meatballs 4,1992
+3044,m.03b9b8,Dead Again,1991
+3045,m.01h3p3,Peter's Friends,1992
+3046,m.04pxc6,Incredibly True Adventure of Two Girls in Love,1995
+3048,m.0d43xm,Under the Rainbow,1981
+3049,m.05svz_,How I Won the War,1967
+3050,m.02xbcp6,Light It Up,1999
+3051,m.0blp1,Anywhere But Here,1999
+3052,m.0p9lw,Dogma,1999
+3053,m.048xyn,Messenger: The Story of Joan of Arc,1999
+3054,m.07fpw5,Pok�mon: The First Movie,1998
+3055,m.097glj,Felicia's Journey,1999
+3056,m.09vq9b,Oxygen,1999
+3057,m.0414gmx,Where's Marlowe?,1999
+3058,m.0g9zr2,Ape,1940
+3060,m.0ddj0x,Commitments,1991
+3061,m.01l0jh,Holiday Inn,1942
+3062,m.04v89z,Longest Day,1962
+3063,m.02plb3,Poison Ivy,1992
+3064,m.0d2_8m,Poison Ivy: New Seduction,1997
+3065,m.0crrcbm,Ten Benny,1997
+3066,m.0fxb2,Tora! Tora! Tora!,1970
+3067,m.04m6vj,Women on the Verge of a Nervous Breakdown,1988
+3068,m.0qmjd,Verdict,1982
+3069,m.0806tg_,Effect of Gamma Rays on Man-in-the-Moon Marigolds,1972
+3070,m.011xrr,Adventures of Buckaroo Bonzai Across the 8th Dimension,1984
+3071,m.0svh8,Stand and Deliver,1987
+3072,m.0yxm1,Moonstruck,1987
+3073,m.0db6g4,Sandpiper,1965
+3074,m.02_hht,Jeremiah Johnson,1972
+3075,m.03y5qf,Repulsion,1965
+3076,m.01dvnl,Irma la Douce,1963
+3077,m.04pxsq4,42 Up,1998
+3078,m.04vfh1,Liberty Heights,1999
+3079,m.0fsd9t,Mansfield Park,1999
+3081,m.0fg04,Sleepy Hollow,1999
+3082,m.0164qt,World Is Not Enough,1999
+3083,m.0gpx6,All About My Mother,1999
+3084,m.0dc4df,Home Page,1999
+3085,m.0b__zmt,Living Dead Girl,1982
+3086,m.01_zjw,March of the Wooden Soldiers,1934
+3087,m.03lrqw,Scrooged,1988
+3088,m.016yhm,Harvey,1950
+3089,m.02zvyp,Bicycle Thief,1948
+3090,m.04l68f,Matewan,1987
+3091,m.04f74c,Kagemusha,1980
+3092,m.05c2g3q,Chushingura,1962
+3093,m.0hx6r,McCabe & Mrs. Miller,1971
+3094,m.09v4ff,Maurice,1987
+3095,m.0bykpk,Grapes of Wrath,1940
+3096,m.02r5dx9,My Man Godfrey,1957
+3097,m.0k4bt,Shop Around the Corner,1940
+3098,m.02r3w0v,Natural,1984
+3099,m.03hq61,Shampoo,1975
+3100,m.0f_jd3,River Runs Through It,1992
+3101,m.0yx7h,Fatal Attraction,1987
+3102,m.04x4h9,Jagged Edge,1985
+3103,m.084w8n,Stanley & Iris,1990
+3104,m.047ytl,Midnight Run,1988
+3105,m.0y_hb,Awakenings,1990
+3106,m.092q3w,Come See the Paradise,1990
+3107,m.02t9_q,Backdraft,1991
+3108,m.016z43,Fisher King,1991
+3109,m.02zxc7,River,1984
+3110,m.03b17s,Country,1984
+3111,m.0sxjs,Places in the Heart,1984
+3112,m.026rcm5,'Night Mother,1986
+3113,m.085wqm,End of Days,1999
+3114,m.01xdxy,Toy Story 2,1999
+3115,m.08xlxr,Flawless,1999
+3116,m.09w9gm,Miss Julie,1999
+3117,m.01jvb5,Ride with the Devil,1999
+3118,m.08d1dj,Tumbleweeds,1999
+3119,m.0bl1b4,Bay of Blood,1971
+3120,m.08ddhy,Distinguished Gentleman,1992
+3121,m.0jszc,Hitch-Hiker,1953
+3122,m.0dhpr6,Santa Fe Trail,1940
+3124,m.0bbvtwk,Agnes Browne,1999
+3125,m.03cfkrw,End of the Affair,1999
+3126,m.027yj28,End of the Affair,1955
+3127,m.01q40v,Holy Smoke,1999
+3128,m.063k6nh,Map of the World,1999
+3129,m.01712f,Sweet and Lowdown,1999
+3130,m.0d7svf,Bonfire of the Vanities,1990
+3131,m.0gchlb,Broadway Damage,1997
+3132,m.0kv5tv,Daddy Long Legs,1919
+3133,m.027tr_7,Go West,1925
+3134,m.0gsx1,Grand Illusion,1937
+3135,m.015wmt,Great Santini,1979
+3136,m.02qvz8_,James Dean Story,1957
+3137,m.06frhv,Sea Wolves,1980
+3138,m.072j07,Stealing Home,1988
+3139,m.047dr5k,Tarzan the Fearless,1933
+3140,m.0dsxfr,Three Ages,1923
+3141,m.05jkvf,Two Jakes,1990
+3142,m.07l51mt,U2: Rattle and Hum,1988
+3143,m.04g783,Hell in the Pacific,1968
+3144,m.06d39r,Glass Bottom Boat,1966
+3145,m.032xyp,Cradle Will Rock,1999
+3146,m.05s14k,Deuce Bigalow: Male Gigolo,1999
+3147,m.03s9kp,Green Mile,1999
+3148,m.083shs,Cider House Rules,1999
+3149,m.026wy_s,Diamonds,1999
+3150,m.0bdn0f,War Zone,1999
+3152,m.0jym0,Last Picture Show,1971
+3153,m.01h0v1,7th Voyage of Sinbad,1958
+3154,m.0d8nn9,Blood on the Sun,1945
+3155,m.02drrg,Anna and the King,1999
+3156,m.0bv8h2,Bicentennial Man,1999
+3157,m.078z_r,Stuart Little,1999
+3158,m.03bxb6,Emperor and the Assassin,1999
+3159,m.02jpth,Fantasia 2000,1999
+3160,m.01hqhm,Magnolia,1999
+3161,m.04q0k2l,Onegin,1999
+3162,m.05m__6g,Simpatico,1999
+3163,m.041td_,Topsy-Turvy,1999
+3165,m.02pwlkz,Boiling Point,1993
+3167,m.02p16n,Carnal Knowledge,1971
+3168,m.0jqp3,Easy Rider,1969
+3169,m.04ymxx,Falcon and the Snowman,1984
+3171,m.0n05g,Room at the Top,1959
+3172,m.03b_s2f,Ulysses,1954
+3173,m.01gglm,Any Given Sunday,1999
+3174,m.0q9b0,Man on the Moon,1999
+3175,m.03fts,Galaxy Quest,1999
+3176,m.02mpyh,Talented Mr. Ripley,1999
+3177,m.04_6g9,Next Friday,1999
+3178,m.0170_p,Hurricane,1999
+3179,m.09tcg4,Angela's Ashes,1999
+3180,m.03gwfzp,Play it to the Bone,1999
+3181,m.03tsz3,Titus,1999
+3182,m.02p2qpv,Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.,1999
+3183,m.0273_d_,Third Miracle,1999
+3184,m.02rgtjl,Montana,1998
+3185,m.060__7,Snow Falling on Cedars,1999
+3186,m.098s2w,Girl,1999
+3187,m.076zvx_,Trans,1998
+3188,m.026sxwj,Life and Times of Hank Greenberg,1998
+3189,m.040k1l,My Dog Skip,1999
+3190,m.07z985,Supernova,2000
+3192,m.07k1k,Terrorist,1998
+3194,m.01gvsn,Way We Were,1973
+3196,m.014knw,Stalag 17,1953
+3197,m.08q47_,Presidio,1988
+3198,m.02p355l,Papillon,1973
+3199,m.02py1_y,Pal Joey,1957
+3200,m.015qr_,Last Detail,1973
+3201,m.0jqws,Five Easy Pieces,1970
+3203,m.033pck,Dead Calm,1989
+3204,m.012626,Boys from Brazil,1978
+3205,m.07h2r4,Black Sunday,1960
+3206,m.02r45m,Against All Odds,1984
+3207,m.02r55p4,Snows of Kilimanjaro,1952
+3208,m.032xs6,Loaded Weapon 1,1993
+3210,m.02bc6c,Fast Times at Ridgemont High,1982
+3211,m.02tqm5,Cry in the Dark,1988
+3212,m.03qdrd0,Born to Win,1971
+3213,m.01t8m2,Batman: Mask of the Phantasm,1993
+3214,m.027s0pb,American Flyers,1985
+3215,m.0by85np,Voyage of the Damned,1976
+3216,m.08lx1z,Vampyros Lesbos,1970
+3217,m.09d37z,Star Is Born,1937
+3218,m.0kv7qx,Poison,1991
+3219,m.05p0r3,Pacific Heights,1990
+3221,m.044zmg,Draughtsman's Contract,1982
+3222,m.08tbx6,Carmen,1984
+3223,m.05j038,Zed & Two Noughts,1985
+3224,m.0bvrq89,Woman in the Dunes,1964
+3225,m.08hjr9,Down to You,2000
+3229,m.08s3ft,Another Man's Poison,1952
+3230,m.0kvbpc,Odessa File,1974
+3232,m.0d_prg,Seven Chances,1925
+3233,m.0gtn36,Smashing Time,1967
+3235,m.0609cd,Where the Buffalo Roam,1980
+3236,m.0g4fl5,Zachariah,1971
+3238,m.061vp5,Eye of the Beholder,1999
+3239,m.02q1hzy,Isn't She Great?,2000
+3240,m.0kv4pt,Big Tease,1999
+3241,m.0859_0,Cup,1999
+3242,m.04j3202,Santitos,1997
+3243,m.05fc8m,Encino Man,1992
+3244,m.0pv2t,Goodbye Girl,1977
+3245,m.03_xxr,I Am Cuba,1964
+3246,m.01rwyq,Malcolm X,1992
+3247,m.03q05j,Sister Act,1992
+3248,m.03sl8j,Sister Act 2: Back in the Habit,1993
+3249,m.040f3x,Hand That Rocks the Cradle,1992
+3250,m.02_55v,Alive,1993
+3251,m.0466pq8,Agnes of God,1985
+3252,m.0_9wr,Scent of a Woman,1992
+3253,m.0kbwb,Wayne's World,1992
+3254,m.01342x,Wayne's World 2,1993
+3255,m.02ndy4,League of Their Own,1992
+3256,m.09gt_0,Patriot Games,1992
+3257,m.0258dh,Bodyguard,1992
+3258,m.0qkl7,Death Becomes Her,1992
+3259,m.034bm_,Far and Away,1992
+3260,m.0_9l_,Howards End,1992
+3261,m.02rw6c,Singles,1992
+3262,m.01kjr0,Twin Peaks: Fire Walk with Me,1992
+3263,m.05lv9n,White Men Can't Jump,1992
+3264,m.01cbx,Buffy the Vampire Slayer,1992
+3265,m.02rw0h,Hard-Boiled,1992
+3266,m.0jrdg,Man Bites Dog,1992
+3267,m.01w63r,Mariachi,1992
+3268,m.069q4f,Stop! Or My Mom Will Shoot,1992
+3269,m.05blpn,Forever Young,1992
+3270,m.05msx2,Cutting Edge,1992
+3271,m.02xqbq,Of Mice and Men,1992
+3272,m.04l40p,Bad Lieutenant,1992
+3273,m.02v63m,Scream 3,2000
+3274,m.07t1xb,Single White Female,1992
+3275,m.02kp5p,Boondock Saints,1999
+3276,m.080p93d,Gun Shy,2000
+3277,m.0cg4j5c,Beloved/Friend,1999
+3280,m.04j32_w,Baby,1973
+3281,m.0cr_ph6,Brandon Teena Story,1998
+3282,m.09m812,Different for Girls,1996
+3283,m.0fbnc1,Minnie and Moskowitz,1971
+3284,m.05gvpf,They Might Be Giants,1971
+3285,m.0cnz15,Beach,2000
+3286,m.05qfnl,Snow Day,2000
+3287,m.0n9qk,Tigger Movie,2000
+3288,m.0fp2lc,Cotton Mary,1999
+3289,m.048r1l,Not One Less,1999
+3290,m.0b3td7n,Soft Toilet Seats,1999
+3292,m.05brtt,Big Combo,1955
+3293,m.0d6c0v,Conceiving Ada,1997
+3294,m.0d4d61,Eaten Alive,1976
+3295,m.0h3x08,Raining Stones,1993
+3296,m.018zck,To Sir with Love,1967
+3298,m.03fr7b,Boiler Room,2000
+3299,m.067tcz,Hanging Up,2000
+3300,m.02gjpk,Pitch Black,2000
+3301,m.0g5qvj,Whole Nine Yards,2000
+3302,m.02729s_,Beautiful People,1999
+3303,m.02x3766,Black Tar Heroin: The Dark End of the Street,1999
+3304,m.09896k,Blue Collar,1978
+3305,m.0gb239,Bluebeard,1944
+3306,m.011_mj,Circus,1928
+3307,m.0jq9t,City Lights,1931
+3308,m.063g51,Flamingo Kid,1984
+3309,m.07mlsy,Dog's Life,1920
+3310,m.04vl27,Kid,1921
+3311,m.06q1s8,Man from Laramie,1955
+3313,m.0b4y0r,Class Reunion,1982
+3314,m.0cvh_c,Big Trees,1952
+3316,m.08tsf4,Reindeer Games,2000
+3317,m.02q56mk,Wonder Boys,2000
+3318,m.0589l6,Deterrence,1998
+3319,m.080kkcx,Judy Berlin,1999
+3320,m.04cw79,Mifune,1999
+3322,m.0fbct3,3 Strikes,2000
+3323,m.06sn0r,Chain of Fools,2000
+3324,m.067l_r,Drowning Mona,2000
+3325,m.09y6pb,Next Best Thing,2000
+3326,m.0dg69f,What Planet Are You From?,2000
+3327,m.06w2jx,Beyond the Mat,2000
+3328,m.02dj31,Ghost Dog: The Way of the Samurai,1999
+3329,m.077k7s,Year My Voice Broke,1987
+3330,m.01dbjh,Splendor in the Grass,1961
+3331,m.0270vjm,My Tutor,1983
+3333,m.07rvq0,Killing of Sister George,1968
+3334,m.04zb7s,Key Largo,1948
+3335,m.07wqqj,Jail Bait,1954
+3336,m.03wb5f,It Happened Here,1961
+3337,m.02cjxp,I'll Never Forget What's 'is Name,1967
+3338,m.07d93f,For All Mankind,1989
+3339,m.029t7x,Cross of Iron,1977
+3340,m.01l40,Bride of the Monster,1956
+3341,m.06jq_7,Born Yesterday,1950
+3342,m.04txpl,Birdy,1984
+3343,m.0gzfhh,And God Created Woman,1988
+3344,m.0325n5,Blood Feast,1963
+3345,m.0crrnc0,Charlie,1967
+3346,m.0kv1mr,Color Me Blood Red,1965
+3347,m.0d3rr9,Never Cry Wolf,1983
+3349,m.03np8lj,Perils of Pauline,1947
+3350,m.05mmgd,Raisin in the Sun,1961
+3351,m.095_xw,Two Thousand Maniacs!,1964
+3352,m.0fc2ww,Brown's Requiem,1998
+3353,m.04j15mf,Closer You Get,2000
+3354,m.04zv5_,Mission to Mars,2000
+3355,m.025_5c,Ninth Gate,2000
+3357,m.0274prg,East-West,1999
+3358,m.072dn5,Defending Your Life,1991
+3359,m.0p_tz,Breaking Away,1979
+3360,m.0jvnn,Hoosiers,1986
+3361,m.031h9k,Bull Durham,1988
+3362,m.0ptx_,Dog Day Afternoon,1975
+3363,m.0hv8w,American Graffiti,1973
+3364,m.03mjfq,Asphalt Jungle,1950
+3365,m.0k45b,Searchers,1956
+3367,m.0fpn_2,Devil's Brigade,1968
+3368,m.07hsb,Big Country,1958
+3370,m.0dmr6t,Betrayed,1988
+3371,m.0pt_5,Bound for Glory,1976
+3372,m.03t_yx,Bridge at Remagen,1969
+3373,m.04gp0s9,Buck and the Preacher,1972
+3374,m.06f2p3,Daughters of the Dust,1992
+3375,m.03l3hv,Destination Moon,1950
+3377,m.03cr8p,Hangmen Also Die,1943
+3378,m.02r60nq,Ogre,1996
+3379,m.02qmrw4,On the Beach,1959
+3380,m.06fwzd,Railroaded!,1947
+3381,m.04j36k9,Slaves to the Underground,1997
+3382,m.099ysh,Song of Freedom,1936
+3384,m.03t3pk,Taking of Pelham One Two Three,1974
+3385,m.0bnx92,Volunteers,1985
+3386,m.09sr0,JFK,1991
+3387,m.02vgy2,Who's Harry Crumb?,1989
+3388,m.06gvqz,Harry and the Hendersons,1987
+3389,m.02qcb_x,Let's Get Harry,1986
+3390,m.04jrlg,Shanghai Surprise,1986
+3391,m.027yrxp,Who's That Girl?,1987
+3392,m.0275nqh,She-Devil,1989
+3393,m.0dlhwk,Date with an Angel,1987
+3394,m.0377m8,Blind Date,1987
+3395,m.02w6ry2,Nadine,1987
+3396,m.03kx49,Muppet Movie,1979
+3397,m.0534ym,Great Muppet Caper,1981
+3398,m.045xzm,Muppets Take Manhattan,1984
+3399,m.05fkhv,Sesame Street Presents Follow That Bird,1985
+3400,m.0czb9v,We're Back! A Dinosaur's Story,1993
+3401,m.0btswm,Baby... Secret of the Lost Legend,1985
+3402,m.02wynxd,Turtle Diary,1985
+3403,m.064lq1h,Raise the Titanic,1980
+3404,m.04h14p,Titanic,1953
+3405,m.0g8v8g,Night to Remember,1958
+3406,m.03_37m,Captain Horatio Hornblower,1951
+3407,m.0c0b0p0,Carriers Are Waiting,1999
+3408,m.04lhc4,Erin Brockovich,2000
+3409,m.01g3gq,Final Destination,2000
+3410,m.0bf4b_t,Soft Fruit,1999
+3412,m.0f5hd8,Bear,1988
+3413,m.061v7p,Impact,1949
+3414,m.0m_h6,Love Is a Many-Splendored Thing,1955
+3415,m.07n1ty,Mirror,1975
+3417,m.07n3hz,Crimson Pirate,1952
+3418,m.026390q,Thelma & Louise,1991
+3419,m.0dr_1k7,Something for Everyone,1970
+3420,m.015wmg,...And Justice for All,1979
+3421,m.0j_tw,Animal House,1978
+3422,m.059925,She's Gotta Have It,1986
+3423,m.086v51,School Daze,1988
+3424,m.0jqkh,Do the Right Thing,1989
+3425,m.038lhw,Mo' Better Blues,1990
+3426,m.016f62,Jungle Fever,1991
+3427,m.08vsry,Coogan's Bluff,1968
+3428,m.02rxbsm,Champ,1979
+3429,m.01dj50,Creature Comforts,1990
+3430,m.02pt7wb,Death Wish,1974
+3431,m.02p32wl,Death Wish II,1982
+3432,m.02p7lzt,Death Wish 3,1985
+3433,m.02pt8cw,Death Wish 4: The Crackdown,1987
+3434,m.02pt8fz,Death Wish V: The Face of Death,1994
+3435,m.0jqly,Double Indemnity,1944
+3436,m.07tfjl,Dying Young,1991
+3437,m.01tlwb,Cool as Ice,1991
+3438,m.073v9d,Teenage Mutant Ninja Turtles,1990
+3439,m.06qhyd,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991
+3440,m.06t_bd,Teenage Mutant Ninja Turtles III,1993
+3441,m.01n910,Red Dawn,1984
+3442,m.0bly77,Band of the Hand,1986
+3443,m.09v59pv,Born American,1986
+3444,m.02mpv2,Bloodsport,1988
+3445,m.084wx_,Eyes of Laura Mars,1978
+3446,m.0grwkk,Funny Bones,1995
+3447,m.0gcmm,Good Earth,1937
+3448,m.016kxf,Good Morning,1987
+3449,m.02q88q8,Good Mother,1988
+3450,m.0676by,Grumpy Old Men,1993
+3451,m.0j90s,Guess Who's Coming to Dinner,1967
+3452,m.041cpw,Romeo Must Die,2000
+3453,m.02rllws,Here on Earth,2000
+3454,m.0c34n5,Whatever It Takes,2000
+3456,m.03m4n99,Color of Paradise,1999
+3457,m.08wvqf,Waking the Dead,1999
+3458,m.02vydwl,Blood and Sand,1989
+3459,m.03xcxq,Gothic,1986
+3461,m.0kvfd1,Lord of the Flies,1963
+3462,m.0jz2p,Modern Times,1936
+3463,m.036k42,Last Resort,1994
+3464,m.07zf9j,Solar Crisis,1993
+3465,m.0dpqc0,That's Life!,1986
+3466,m.0c6c4g,Heart and Souls,1993
+3467,m.015gm8,Hud,1963
+3468,m.0283_zv,Hustler,1961
+3469,m.05znxp6,Inherit the Wind,1960
+3470,m.05hlpv,Dersu Uzala,1974
+3471,m.012mrr,Close Encounters of the Third Kind,1977
+3472,m.075f66,Horror Hotel,1960
+3473,m.0cmmv4,Jonah Who Will Be 25 in the Year 2000,1976
+3474,m.04j36f1,Retroactive,1997
+3475,m.072192,Place in the Sun,1951
+3476,m.02gypn,Jacob's Ladder,1990
+3477,m.03nnsy,Empire Records,1995
+3478,m.01snrk,Bamba,1987
+3479,m.02bl4s,Ladyhawke,1985
+3480,m.034vk8,Lucas,1986
+3481,m.025rxjq,High Fidelity,2000
+3483,m.03r6q1,Road to El Dorado,2000
+3484,m.0431h1,Skulls,2000
+3486,m.03kh4x,Devil Girl From Mars,1954
+3487,m.04vjzm,Dorado,1967
+3488,m.03cpkmt,Hideous Sun Demon,1959
+3489,m.0295sy,Hook,1991
+3490,m.083xs1,Horror Express,1972
+3491,m.02q027g,My Chauffeur,1986
+3492,m.06mkk7,Son of the Sheik,1926
+3494,m.015gxt,True Grit,1969
+3495,m.0h05yr,Roadside Prophets,1992
+3496,m.0cwr9m,Madame Sousatzka,1988
+3497,m.027v2np,Max Dugan Returns,1983
+3498,m.0p_sc,Midnight Express,1978
+3499,m.0h2xyn,Misery,1990
+3500,m.04x4st,Mr. Saturday Night,1992
+3501,m.016kmf,Murphy's Romance,1985
+3502,m.0ds27b,My Life,1993
+3503,m.054060,Solaris,1972
+3504,m.04j13sx,Network,1976
+3505,m.03lt69,No Way Out,1987
+3506,m.07v78k,North Dallas Forty,1979
+3507,m.0g7g1t,Odd Couple,1968
+3508,m.0j_xl,Outlaw Josey Wales,1976
+3509,m.0240dj,Black and White,1999
+3510,m.02m7m1,Frequency,2000
+3511,m.06wn11,Ready to Rumble,2000
+3512,m.08rr9b,Return to Me,2000
+3513,m.04gknr,Rules of Engagement,2000
+3514,m.0gsvp5,Joe Gould's Secret,2000
+3515,m.04g2ldh,Me Myself I,2000
+3516,m.06yr5b,Bell,1958
+3517,m.04j34w0,Bells,1926
+3518,m.0gwlbl,End of Violence,1997
+3519,m.04dcpy,Force 10 from Navarone,1978
+3520,m.08k_5z,How to Stuff a Wild Bikini,1965
+3521,m.09hf3p,Mystery Train,1989
+3522,m.02pm2vb,Sacco and Vanzetti,1971
+3523,m.026x6wh,Taffin,1988
+3524,m.015wrq,Arthur,1981
+3525,m.0604zn,Bachelor Party,1984
+3526,m.047nfz,Parenthood,1989
+3527,m.01hjmb,Predator,1987
+3528,m.0_8vl,Prince of Tides,1991
+3529,m.0dlh47,Postman Always Rings Twice,1981
+3530,m.0kv0jx,Smoking/No Smoking,1993
+3531,m.0b6xn90,All the Vermeers in New York,1990
+3533,m.0574ph7,Actor's Revenge,1963
+3534,m.07gb81,28 Days,2000
+3535,m.0cqr0q,American Psycho,2000
+3536,m.0697_g,Keeping the Faith,2000
+3537,m.0d1ygy,Where the Money Is,2000
+3538,m.04nph8,East is East,1999
+3539,m.07zwnk,Filth and the Fury,2000
+3540,m.0kvcq5,Passion of Mind,1999
+3542,m.04j322m,Coming Apart,1969
+3543,m.04bn37,Diner,1982
+3544,m.07hq75,Shakes the Clown,1991
+3545,m.01jc6q,Cabaret,1972
+3546,m.065_f8,What Ever Happened to Baby Jane?,1962
+3547,m.02mnh3,Prick Up Your Ears,1987
+3548,m.02plbgx,Auntie Mame,1958
+3549,m.0gl3hr,Guys and Dolls,1955
+3550,m.049r46,Hunger,1983
+3551,m.02qg5zq,Marathon Man,1976
+3552,m.01fxw4,Caddyshack,1980
+3553,m.0fn46x,Gossip,2000
+3554,m.08487v,Love and Basketball,2000
+3555,m.07xvf,U-571,2000
+3556,m.09ps01,Virgin Suicides,1999
+3557,m.09xykf,Jennifer 8,1992
+3559,m.02sd4m,Limelight,1952
+3562,m.0513py,Committed,2000
+3563,m.03kyt8,Crow: Salvation,2000
+3564,m.02wgbb,Flintstones in Viva Rock Vegas,2000
+3565,m.0c2wy,Where the Heart Is,2000
+3566,m.02y1v6,Big Kahuna,2000
+3567,m.0dbsmc,Bossa Nova,1999
+3568,m.04j321r,Smiling Fish and Goat on Fire,1999
+3569,m.0414_3,Idiots,1998
+3570,m.0bvp7st,Last September,1999
+3571,m.080hs9,Time Code,2000
+3572,m.0cs__t,Carnosaur,1993
+3573,m.0gzr0_,Carnosaur 2,1995
+3575,m.025wyyf,Defying Gravity,1997
+3576,m.0c01vd9,Hidden,1987
+3577,m.07d89s,Two Moon Juction,1988
+3578,m.09q5w2,Gladiator,2000
+3579,m.039q43,I Dreamed of Africa,2000
+3580,m.0bvr1pn,Up at the Villa,2000
+3581,m.07rhyj,Human Traffic,1999
+3584,m.0fjdgm,Breathless,1983
+3585,m.0b3935,Great Locomotive Chase,1956
+3586,m.0gq3tk,Idolmaker,1980
+3587,m.0bbtj2,Inferno,1980
+3588,m.0716kb,King of Marvin Gardens,1972
+3590,m.062nf8,Lords of Flatbush,1974
+3591,m.05y31z,Mr. Mom,1983
+3592,m.033dqs,Time Masters,1982
+3593,m.0gzlb9,Battlefield Earth,2000
+3594,m.050jdw,Center Stage,2000
+3595,m.0f2hbj,Held Up,2000
+3596,m.08dc1n,Screwed,2000
+3597,m.026cs30,Whipped,2000
+3598,m.0prk8,Hamlet,2000
+3599,m.0kprr,Anchors Aweigh,1945
+3600,m.03rhlt,Blue Hawaii,1961
+3601,m.02vqp_q,Castaway Cowboy,1974
+3602,m.05q82t,G. I. Blues,1960
+3603,m.0kt_sl,Gay Deceivers,1969
+3604,m.0ggm6f,Gypsy,1962
+3605,m.01hz4ng,King Creole,1958
+3606,m.02x62wx,On the Town,1949
+3607,m.0gz8gj,One Little Indian,1973
+3608,m.027tg5,Pee-wee's Big Adventure,1985
+3609,m.04zzdvz,Regret to Inform,1998
+3610,m.04gh3qs,Roustabout,1964
+3611,m.0k5j9,Saludos Amigos,1943
+3612,m.023p8g,Slipper and the Rose,1976
+3613,m.0btcbv,Things Change,1988
+3614,m.086m54,Honeymoon in Vegas,1992
+3615,m.03py6p,Dinosaur,2000
+3616,m.07n9mc,Loser,2000
+3617,m.04cppj,Road Trip,2000
+3618,m.0694b1,Small Time Crooks,2000
+3619,m.05f8tn,Hollywood Knights,1980
+3620,m.08yc0j,Myth of Fingerprints,1997
+3622,m.07gykc,Twelve Chairs,1970
+3623,m.02b61v,Mission: Impossible 2,2000
+3624,m.01f6x7,Shanghai Noon,2000
+3625,m.095clj,Better Living Through Circuitry,1999
+3626,m.07lgkr,8 1/2 Women,1999
+3627,m.0460l2,Carnival of Souls,1962
+3628,m.0fw92r,Flying Tigers,1942
+3629,m.0jsfp,Gold Rush,1925
+3631,m.0g3bx2,It's in the Water,1998
+3632,m.02nmmc,Monsieur Verdoux,1947
+3633,m.0fztbq,On Her Majesty's Secret Service,1969
+3634,m.01rg28,Seven Days in May,1964
+3635,m.0g5ptf,Spy Who Loved Me,1977
+3636,m.05szs12,Those Who Love Me Can Take the Train,1998
+3637,m.03mwds,Vagabond,1985
+3638,m.01kf3_9,Moonraker,1979
+3639,m.0fxmbn,Man with the Golden Gun,1974
+3640,m.0617fz,King in New York,1957
+3641,m.02nr5x,Woman of Paris,1923
+3642,m.02vtxdf,In Old California,1942
+3643,m.04frx1,Fighting Seabees,1944
+3644,m.0dbjs1,Dark Command,1940
+3645,m.09rwnl,Cleo From 5 to 7,1962
+3646,m.040fjs,Big Momma's House,2000
+3647,m.051ftw2,Running Free,2000
+3648,m.0bgh_1,Abominable Snowman,1957
+3649,m.0316hv,American Gigolo,1980
+3652,m.0b_qk2,City of the Living Dead,1980
+3653,m.01609y,Endless Summer,1966
+3654,m.0gzy02,Guns of Navarone,1961
+3655,m.052gym,Blow-Out,1973
+3656,m.026v_z9,Lured,1947
+3657,m.035cvl,Pandora and the Flying Dutchman,1951
+3658,m.03k9cq,Quatermass and the Pit,1967
+3659,m.03k2y5,Quatermass II,1957
+3660,m.04vmhy,Puppet Master,1989
+3661,m.0h72s_,Puppet Master II,1990
+3662,m.0h73n6,Puppet Master III: Toulon's Revenge,1991
+3663,m.0h73xq,Puppet Master 4,1993
+3664,m.0h73_g,Puppet Master 5: The Final Chapter,1994
+3665,m.0h744b,Curse of the Puppet Master,1998
+3666,m.0h751x,Retro Puppetmaster,1999
+3667,m.082633,Rent-A-Cop,1988
+3668,m.0p9rz,Romeo and Juliet,1968
+3669,m.05mbzd,Stay Tuned,1992
+3670,m.043xcs,Story of G.I. Joe,1945
+3671,m.018f8,Blazing Saddles,1974
+3672,m.02r5m4r,Benji,1974
+3673,m.0c6fyr,Benji the Hunted,1987
+3674,m.0c6g0x,For the Love of Benji,1977
+3675,m.084l1p,White Christmas,1954
+3676,m.027jhb,Eraserhead,1977
+3677,m.0192hw,Baraka,1992
+3678,m.015d7j,Man with the Golden Arm,1955
+3679,m.02ccl6,Decline of Western Civilization,1981
+3680,m.08jkc3,Decline of Western Civilization Part II: The Metal Years,1988
+3681,m.028_x9,For a Few Dollars More,1965
+3682,m.034bxn,Magnum Force,1973
+3683,m.01pbtz,Blood Simple,1984
+3684,m.03b1l8,Fabulous Baker Boys,1989
+3685,m.0sxlb,Prizzi's Honor,1985
+3686,m.031srw,Flatliners,1990
+3688,m.01pwpj,Porky's,1981
+3689,m.06mnqw,Porky's II: The Next Day,1983
+3690,m.06mp32,Porky's Revenge,1985
+3691,m.0glhwy,Private School,1983
+3692,m.0qf00,Class of Nuke 'Em High,1986
+3693,m.0qd_m,Toxic Avenger,1985
+3694,m.04j36n1,Toxic Avenger,1989
+3695,m.0fx18n,Toxic Avenger Part III: The Last Temptation of Toxie,1989
+3696,m.07lk9z,Night of the Creeps,1986
+3697,m.02xd2b,Predator 2,1990
+3698,m.0kvds4,Running Man,1987
+3699,m.016kc2,Starman,1984
+3700,m.05mc7l,Brother from Another Planet,1984
+3701,m.02rlnb,Alien Nation,1988
+3702,m.01ly1t,Mad Max,1979
+3703,m.01mypy,Mad Max 2,1981
+3704,m.02v1cp,Mad Max Beyond Thunderdome,1985
+3705,m.0bq8tr,Bird on a Wire,1990
+3706,m.031t9l,Angel Heart,1987
+3707,m.064kkg,Nine 1/2 Weeks,1986
+3708,m.03wc5fn,Firestarter,1984
+3709,m.049vdj,Sleepwalkers,1992
+3710,m.06jy_j,Action Jackson,1988
+3711,m.0cc4yky,Sarafina!,1992
+3712,m.0761d1,Soapdish,1991
+3713,m.02pps9t,Long Walk Home,1990
+3714,m.06j60m,Clara's Heart,1988
+3715,m.0ffscm,Burglar,1987
+3716,m.0h5mnt,Fatal Beauty,1987
+3717,m.03ljpk,Gone in 60 Seconds,2000
+3718,m.05_wvb,American Pimp,1999
+3719,m.01rcz0,Love's Labour's Lost,2000
+3720,m.0c0yh4,Sunshine,1999
+3721,m.06kyc4,Trixie,1999
+3723,m.0prhz,Hamlet,1990
+3724,m.0p_qr,Coming Home,1978
+3725,m.06g_zh,American Pop,1981
+3726,m.04zhn2,Assault on Precinct 13,1976
+3727,m.02x0h6q,Near Dark,1987
+3728,m.07zjk0,One False Move,1991
+3729,m.0k47y,Shaft,1971
+3730,m.0hmm7,Conversation,1974
+3731,m.0br24q,Cutter's Way,1981
+3732,m.08t6yk,Fury,1978
+3733,m.02pq3rp,Paper Chase,1973
+3734,m.04w2h3,Prince of the City,1981
+3735,m.015qsq,Serpico,1973
+3736,m.05jp8w,Big Carnival,1951
+3737,m.06rqj9,Lonely Are the Brave,1962
+3738,m.05k8zz,Sugarland Express,1974
+3739,m.0k4q_,Trouble in Paradise,1932
+3740,m.033m2w,Big Trouble in Little China,1986
+3741,m.0hv9p,Badlands,1973
+3742,m.0kcqg,Battleship Potemkin,1925
+3743,m.0bkwpx,Boys and Girls,2000
+3744,m.03vpf7,Shaft,2000
+3745,m.037j_8,Titan A.E.,2000
+3746,m.0d2v31,Butterfly,2000
+3747,m.075cvb,Jesus' Son,1999
+3748,m.0g4fvc7,Match,1999
+3749,m.08_ss4,Time Regained,1999
+3751,m.01pv91,Chicken Run,2000
+3752,m.04b7hj,Me,2000
+3753,m.0gltv,Patriot,2000
+3754,m.04d5_k,Adventures of Rocky and Bullwinkle,2000
+3755,m.09q92l,Perfect Storm,2000
+3756,m.0fbjkn,Golden Bowl,2000
+3757,m.02pm9rf,Asylum,1972
+3758,m.0285v4p,Communion,1989
+3759,m.054rdz,Fun and Fancy Free,1947
+3760,m.03ndtd,Kentucky Fried Movie,1977
+3761,m.0785tk,Blood In,1993
+3763,m.04q467,F/X,1986
+3764,m.0dx7y1,F/X 2,1992
+3765,m.02b655,Hot Spot,1990
+3766,m.07xqf5,Missing in Action,1984
+3767,m.0dxm65,Missing in Action 2: The Beginning,1985
+3768,m.0dxmb4,Braddock: Missing in Action III,1988
+3769,m.04x3nn,Thunderbolt and Lightfoot,1974
+3770,m.04qgzk,Dreamscape,1984
+3771,m.0b7xqg,Golden Voyage of Sinbad,1974
+3772,m.05h4zp3,Hatchet For the Honeymoon,1969
+3773,m.01tb8h,House Party,1990
+3774,m.054vql,House Party 2,1991
+3775,m.05ftpb,Make Mine Music,1946
+3776,m.05grgm,Melody Time,1948
+3777,m.03z2ph,Nekromantik,1987
+3778,m.03hh03f,On Our Merry Way,1948
+3779,m.03ky5b,Project Moon Base,1953
+3780,m.03ky47,Rocketship X-M,1950
+3781,m.04z6kn,Shaft in Africa,1973
+3782,m.050731,Shaft's Big Score!,1972
+3783,m.07bm1j,Croupier,1998
+3784,m.04vl3c,Kid,2000
+3785,m.01pj_5,Scary Movie,2000
+3786,m.03b1n2,But I'm a Cheerleader,1999
+3787,m.02q71md,Shower,1999
+3788,m.029p7z,Blowup,1966
+3789,m.056s2zf,Pawnbroker,1965
+3790,m.04zjrb,Groove,2000
+3791,m.03k_rz,Footloose,1984
+3792,m.019305,Duel in the Sun,1946
+3793,m.0d90m,X-Men,2000
+3794,m.08rcnn,Chuck & Buck,2000
+3795,m.02qptl0,Five Senses,1999
+3796,m.02q44q4,Wisdom of Crocodiles,2000
+3797,m.02789mt,In Crowd,2000
+3798,m.02tktw,What Lies Beneath,2000
+3800,m.05427h5,Criminal Lovers,1999
+3801,m.0n04r,Anatomy of a Murder,1959
+3802,m.04x7w0,Freejack,1992
+3803,m.047gmx9,Greaser's Palace,1972
+3804,m.07s8ns2,H.O.T.S.,1979
+3805,m.086grh,Knightriders,1981
+3806,m.01ypzw,MacKenna's Gold,1969
+3807,m.07xxt4,Sinbad and the Eye of the Tiger,1977
+3808,m.01bjj6,Two Women,1961
+3809,m.03sb0b,What About Bob?,1991
+3810,m.09468k,White Sands,1992
+3811,m.03lv4x,Breaker Morant,1980
+3812,m.0564gy,Everything You Always Wanted to Know About Sex,1972
+3813,m.01jw37,Interiors,1978
+3814,m.03pr8r,Love and Death,1975
+3816,m.0338dg,Official Story,1985
+3817,m.03c4kql,Other Side of Sunday,1996
+3818,m.04gsk1c,Pot O' Gold,1941
+3819,m.01ly7z,Tampopo,1986
+3820,m.025mjf,Thomas and the Magic Railroad,2000
+3821,m.065zlr,Nutty Professor II: The Klumps,2000
+3822,m.05mz7k,Girl on the Bridge,1999
+3823,m.02x1drq,Wonderland,1999
+3824,m.0gdl14,Autumn in New York,2000
+3825,m.076hrh,Coyote Ugly,2000
+3826,m.04th45,Hollow Man,2000
+3827,m.05r3qc,Space Cowboys,2000
+3828,m.03qhdxf,Better Living,1998
+3830,m.04ct02,Psycho Beach Party,2000
+3831,m.0b098_,Saving Grace,2000
+3832,m.03yhy2,Black Sabbath,1963
+3833,m.05vqym,Brain That Wouldn't Die,1962
+3834,m.0czy_l,Bronco Billy,1980
+3835,m.03dbgn,Crush,1993
+3836,m.03r8x1,Kelly's Heroes,1970
+3837,m.07qh55,Phantasm II,1988
+3838,m.094kf3,Phantasm III: Lord of the Dead,1994
+3839,m.094kgx,Phantasm IV: Oblivion,1998
+3840,m.02ttlq,Pumpkinhead,1988
+3841,m.03h5qb,Air America,1990
+3843,m.0356cl,Sleepaway Camp,1983
+3844,m.02v4_y,Steel Magnolias,1989
+3845,m.02qkxv,And God Created Woman,1956
+3846,m.0f1v1q,Easy Money,1983
+3847,m.04bjl1,Ilsa,1974
+3848,m.04247r,Silent Fall,1994
+3849,m.054_9m,Spiral Staircase,1946
+3850,m.02ppy5w,Whatever Happened to Aunt Alice?,1969
+3851,m.097y12,I'm the One That I Want,2000
+3852,m.07tsdh,Tao of Steve,2000
+3853,m.03c2g5b,Tic Code,1998
+3854,m.02b5px,Aim�e & Jaguar,1999
+3855,m.04jfjzn,Affair of Love,1999
+3857,m.04k12v,Bless the Child,2000
+3858,m.040n6j,Cecil B. Demented,2000
+3859,m.09slmyx,Eyes of Tammy Faye,2000
+3860,m.0dtrwv,Opportunists,1999
+3861,m.01f86c,Replacements,2000
+3862,m.08g295,About Adam,2000
+3863,m.0315w4,Cell,2000
+3864,m.04tyv5,Godzilla 2000,1999
+3865,m.08q72t,Original Kings of Comedy,2000
+3866,m.040_yrk,Sunset Strip,2000
+3867,m.09jkgs,All the Rage,1999
+3868,m.01h7n7,Naked Gun: From the Files of Police Squad!,1988
+3869,m.03qfhp,Naked Gun 2 1/2: The Smell of Fear,1991
+3870,m.04z4qx,Our Town,1940
+3871,m.0k4bc,Shane,1953
+3872,m.0kvgyb,Suddenly,1959
+3873,m.015gm_,Cat Ballou,1965
+3874,m.0f01h1,Couch in New York,1996
+3875,m.03cljmh,Devil Rides Out,1968
+3876,m.09rx2s3,Jerry & Tom,1998
+3877,m.05gzz5,Supergirl,1984
+3878,m.03kgs2,X: The Unknown,1956
+3879,m.05_0nr,Art of War,2000
+3880,m.0cs04c8,Ballad of Ramblin' Jack,2000
+3881,m.09gktr,Bittersweet Motel,2000
+3882,m.039rsv,Bring It On,2000
+3883,m.05t07yx,Catfish in Black Bean Sauce,2000
+3884,m.0g5mp9,Crew,2000
+3885,m.026y22v,Love & Sex,2000
+3886,m.05fw0j,Steal This Movie!,2000
+3887,m.04j0dmq,Went to Coney Island on a Mission From God... Be Back by Five,1998
+3888,m.09yxxn,Skipped Parts,2000
+3889,m.099xt6,Highlander: Endgame,2000
+3890,m.05zy86h,Back Stage,2000
+3892,m.04pg9v,Anatomy,2000
+3893,m.036qtd,Nurse Betty,2000
+3894,m.0bhpf5,Solas,1999
+3895,m.027_w5b,Watcher,2000
+3896,m.056glj,Way of the Gun,2000
+3897,m.027r9t,Almost Famous,2000
+3898,m.0c0j58,Bait,2000
+3899,m.03nr4v,Circus,2000
+3900,m.098fx3,Crime and Punishment in Suburbia,2000
+3901,m.06d510,Duets,2000
+3902,m.03c62p4,Goya in Bordeaux,1999
+3903,m.0h61g8,Urbania,2000
+3905,m.072vmw,Specials,2000
+3906,m.061dc7,Under Suspicion,2000
+3908,m.05njxh,Urban Legends: Final Cut,2000
+3909,m.07v52h,Woman on Top,2000
+3910,m.01m13b,Dancer in the Dark,2000
+3911,m.02stbw,Best in Show,2000
+3912,m.0b0s9s,Beautiful,2000
+3913,m.0bkz1t,Barenaked in America,1999
+3914,m.04h5k9,Broken Hearts Club,2000
+3915,m.06j_4y,Girlfight,2000
+3916,m.023gxx,Remember the Titans,2000
+3917,m.0jg8z,Hellraiser,1987
+3918,m.09yqf1,Hellbound: Hellraiser II,1988
+3919,m.09yqhw,Hellraiser III: Hell on Earth,1992
+3920,m.090sqy,Faraway,1993
+3921,m.08cphw,Beach Party,1963
+3922,m.07b093,Bikini Beach,1964
+3923,m.09sfrg,Return of the Fly,1959
+3924,m.0cbc3l,Pajama Party,1964
+3925,m.0160jy,Stranger Than Paradise,1984
+3926,m.0428q1,Voyage to the Bottom of the Sea,1961
+3927,m.03_f9d,Fantastic Voyage,1966
+3928,m.0hv2q,Abbott and Costello Meet Frankenstein,1948
+3929,m.0hv3z,Bank Dick,1940
+3930,m.0jhpk,Creature From the Black Lagoon,1954
+3931,m.0dm3gj,Giant Gila Monster,1959
+3932,m.05g1cj,Invisible Man,1933
+3933,m.0g9_qt,Killer Shrews,1959
+3934,m.03l3f7,Kronos,1957
+3936,m.04n_0x,Phantom of the Opera,1943
+3937,m.0834qx,Runaway,1984
+3938,m.0by53s,Slumber Party Massacre,1982
+3939,m.0gg2_x,Slumber Party Massacre II,1987
+3940,m.03hnxng,Slumber Party Massacre III,1990
+3941,m.02pxq42,Sorority House Massacre,1986
+3942,m.0286s61,Sorority House Massacre II,1990
+3943,m.01gwbq,Bamboozled,2000
+3944,m.02q3lxh,Bootmen,2000
+3945,m.0dtjpk,Digimon: The Movie,2000
+3946,m.05nyqk,Get Carter,2000
+3947,m.017s99,Get Carter,1971
+3948,m.033fqh,Meet the Parents,2000
+3949,m.07k2mq,Requiem for a Dream,2000
+3950,m.07gv6d,Tigerland,2000
+3951,m.0kv6m4,Two Family House,2000
+3952,m.02yxbc,Contender,2000

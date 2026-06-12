@@ -1,7 +1,7 @@
 ## Improved Collaborative Recommendation Framework Based on Enhanced Knowledge Representation Learning
 
 The paper is available at .
-
+Movie and Book datasets on https://pan.baidu.com/s/18UeQvJHuT947SWObjVI3iQ?pwd=bf89
 
 ## Requirements
 
